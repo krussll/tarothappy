@@ -6,6 +6,7 @@ categories: [ guide ]
 image: assets/images/best-bowls-for-leads.jpg
 featured: false
 description: "What are the best rated lawn bowls woods for leads? Check out our top 4. Are yours on the list?"
+last_modified_at: 2020-10-22
 ---
 
 ## Top 4 Lawn bowls for leads
@@ -18,7 +19,6 @@ description: "What are the best rated lawn bowls woods for leads? Check out our 
       <th>Brand</th>
       <th>Model</th>
       <th>Price</th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -26,25 +26,21 @@ description: "What are the best rated lawn bowls woods for leads? Check out our 
       <td>Drakes Pride</td>
       <td>D-Tec</td>
       <td>£289.99 </td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07VF5RJH8&linkId=e5b90d4e6fd7c6bf5c239d43a275d8da" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Drakes Pride</td>
       <td>Professional</td>
       <td>£255</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B005MI2YE0&linkId=fb5c41c051c9e6b228526c411ebe6742" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Taylor</td>
       <td>Vector VS</td>
       <td>£279.90 </td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Aero</td>
       <td>Quantum</td>
       <td>£130-£180 (used)</td>
-      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" class="btn more"  target="_blank">See more</a></td>
     </tr>
   </tbody>
 </table>
