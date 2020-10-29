@@ -72,9 +72,13 @@ Slow outdoor greens will play pretty straight at the best of times - so it’s i
 
 ### Taylor Vector VS
 
+<img src="/assets/images/bowls/taylor/taylor-vector-vs-display.jpg" alt="Taylor Vector VS lawn bowls" />
+
 Taylor has a fantastic range of bowls. The Vector VS is known as a wide biased indoor model, however, I have seen them play very well outdoors. The bias lends itself for leads and will play straighter on slower greens
 
 ### Aero Quantum
+
+<img src="/assets/images/bowls/aero/aero-quantum-display.jpg" alt="Aero Quantum lawn bowls" />
 
 Another one from the Aero range. The Quantum is one of Aero’s dual-purpose models, so it has been designed for outdoor greens. This sits on the narrower side of the dual-purpose range, so will be ideal for a narrower style of play
 
@@ -91,6 +95,8 @@ Outdoor greens can be some of the fastest surfaces to play on, therefore we need
 The Lazer was designed for indoor, and fast outdoor greens. Its the narrowest model in the Taylor range, so it will fit the bill for anyone who plays on fast outdoor rinks regularly.
 
 ### Aero Profile
+
+<img src="/assets/images/bowls/aero/aero-profile-display.jpg" alt="Aero Profile lawn bowls" />
 
 One final Aero recommendation (I did say I was a fan). The Profile model sits near the bottom of the Aero bias chart. Much like the Taylor Lazer, the Profile was designed to be a narrow biased, straighter model. 
 
