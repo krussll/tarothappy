@@ -96,8 +96,6 @@ The Lazer was designed for indoor, and fast outdoor greens. Its the narrowest mo
 
 ### Aero Profile
 
-<img src="/assets/images/bowls/aero/aero-profile-display.jpg" alt="Aero Profile lawn bowls" />
-
 One final Aero recommendation (I did say I was a fan). The Profile model sits near the bottom of the Aero bias chart. Much like the Taylor Lazer, the Profile was designed to be a narrow biased, straighter model. 
 
 ## Things to consider
