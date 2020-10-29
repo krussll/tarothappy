@@ -62,9 +62,9 @@ Indoor bowls will require the straightest models available. Any model that is co
 
 The d-tec is one of the best narrow line bowls available. Ideal for indoor conditions, the d-tec offers a consistent flat finishing draw shot.
 
-### Aero Optima
+### Aero Defiance
 
-The Optima is the narrowest bowl in the Aero range. I love Aero bowls, mainly for their grip, and sizing options, but they also have fantastically consistent draw arcs throughout their range.
+The Defiance is the narrowest bowl in the Aero range. I love Aero bowls, mainly for their grip, and sizing options, but they also have fantastically consistent draw arcs throughout their range.
 
 ## Straight lawn bowls for slow outdoor greens
 
