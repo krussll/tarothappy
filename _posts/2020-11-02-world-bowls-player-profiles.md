@@ -15,7 +15,9 @@ Here is a selection of some of the best bowlers in the world right now. We have 
 #### World Indoor Championships
 
 **Gold medal – first place**	2013	Men's singles
+
 **Gold medal – first place**	2016	Men's pairs
+
 **Gold medal – first place**	2019	Men's singles
 
 ### Born
@@ -34,9 +36,13 @@ English
 #### World Indoor Bowls Championships
 
 **Gold medal – first place**	2014	Men's pairs
+
 **Gold medal – first place**	2016	Men's singles
+
 **Gold medal – first place**	2017	Mixed pairs
+
 **Gold medal – first place**	2020	Open pairs
+
 **Gold medal – first place**	2020	Mixed pairs
 
 ### Born
@@ -58,6 +64,7 @@ https://www.youtube.com/watch?v=T7Yp-ZSpPfc
 #### World Indoor Bowls Championships
 
 **Gold medal – first place**	2018 Open singles
+
 **Gold medal – first place**	2018 Open pairs
 
 ### Born
@@ -77,6 +84,7 @@ English
 #### World Indoor Championships
 
 **Gold medal – first place**	2019 Ladies Singles
+
 **Gold medal – first place**	2020 Ladies Singles
 
 ### Born
@@ -100,23 +108,37 @@ Scottish
 #### Commonwealth Games
 
 **Gold medal – first place**	2006 Men's Pairs
+
 **Gold medal – first place**	2014 Men’s Pairs
+
 **Gold medal – first place**	2014 Men’s Fours
+
 **Gold medal – first place**	2018 Men's Fours
 
 #### World Indoor Championships
 
 **Gold medal – first place**	1998 Men's Singles
+
 **Gold medal – first place**	2001 Men's Singles
+
 **Gold medal – first place**	2002 Men’s Pairs
+
 **Gold medal – first place**	2005 Men's Singles
+
 **Gold medal – first place**	2011 Men's Singles
+
 **Gold medal – first place**	2011 Men’s Pairs
+
 **Gold medal – first place**	2012 Men’s Pairs
+
 **Gold medal – first place**	2013 Men’s Pairs
+
 **Gold medal – first place**	2013 Mixed Pairs
+
 **Gold medal – first place**	2014 Mixed Pairs
+
 **Gold medal – first place**	2017 Men’s Singles
+
 **Gold medal – first place**	2019 Men’s Pairs
 
 ### Born
@@ -136,6 +158,7 @@ Scottish
 #### World Indoor Championships
 
 **Gold medal – first place**	2001 Men's Pairs
+
 **Gold medal – first place**	2017 Open Pairs
 
 ### Born
@@ -155,8 +178,11 @@ English
 #### World Indoor Bowls Championships
 
 **Gold medal – first place**	2007	Mixed pairs
+
 **Gold medal – first place**	2010	Men's singles
+
 **Gold medal – first place**	2014	Men's pairs
+
 **Gold medal – first place**	2020	Open pairs
 
 ### Born
@@ -176,8 +202,11 @@ English
 #### World Indoor Championships
 
 **Gold medal – first place**	1997 Men's pairs
+
 **Gold medal – first place**	2005 Men's pairs
+
 **Gold medal – first place**	2006 Men's singles
+
 **Gold medal – first place**	2009 Men's pairs
 
 ### Born
@@ -214,35 +243,57 @@ Australian
 #### World Outdoor Championships
 
 **Gold medal – first place**	1992 Worthing	Men's Pairs
+
 **Gold medal – first place**	1992 Worthing	Men's Fours
+
 **Gold medal – first place**	1992 Worthing	Men's Team
+
 **Gold medal – first place**	1996 Adelaide	Men's Team
+
 **Gold medal – first place**	2000 Johannesburg	Men's Pairs
-**Gold medal – first place**	2004 Ayr	Men's Team
+
+**Gold medal – first place**	2004 Ayr Men's Team
+
 **Gold medal – first place**	2012 Adelaide	Men's Pairs
 
 #### Commonwealth Games
 
-**Gold medal – first place**	2002 Manchester	Men's Pairs
-**Gold medal – first place**	2006 Melbourne	Men's Pairs
-**Gold medal – first place**	2014 Glasgow	Men's Pairs
-**Gold medal – first place**	2014 Glasgow	Men's Fours
-**Gold medal – first place**	2018 Gold Coast	Men's Fours
+**Gold medal – first place**	2002 Men's Pairs
+
+**Gold medal – first place**	2006 Men's Pairs
+
+**Gold medal – first place**	2014 Men's Pairs
+
+**Gold medal – first place**	2014 Men's Fours
+
+**Gold medal – first place**	2018 Men's Fours
 
 #### World Indoor Championships
 
 First place	1999 Men’s Singles
+
 First place	2000 Men’s Pairs
+
 First place	2003 Men’s Singles
+
 First place	2004 Men’s Pairs
+
 First place	2004 Mixed Pairs
+
 First place	2007 Men’s Singles
+
 First place	2008 Men’s Singles
+
 First place	2010 Mixed Pairs
+
 First place	2011 Men’s Pairs
+
 First place	2012 Men’s Pairs
+
 First place	2013 Men’s Pairs
+
 First place	2015 Men’s Singles
+
 First place	2019 Men’s Pairs
 
 ### Born
@@ -262,8 +313,11 @@ Scottish
 #### World Outdoor Championships
 
 **Gold medal – first place**	2008 Ladies Fours
+
 **Gold medal – first place**	2012 Ladies Singles
+
 **Gold medal – first place**	2012 Ladies Triples
+
 **Gold medal – first place**	2016 Ladies Singles
 
 #### Commonwealth Games
@@ -294,8 +348,11 @@ Australian
 #### World Indoor Bowls Championships
 
 **Gold medal – first place**	2015	Men's pairs
+
 **Gold medal – first place**	2015	Mixed pairs
+
 **Gold medal – first place**	2019	Mixed pairs
+
 **Gold medal – first place**	2020	Men's singles
 
 ### Born
@@ -317,8 +374,11 @@ English
 #### World Indoor Bowls Championships
 
 **Gold medal – first place**	2014 Women's singles
+
 **Gold medal – first place**	2016 Mixed pairs
+
 **Gold medal – first place**	2017 Women's singles
+
 **Gold medal – first place**	2018 Women's singles
 
 ### Born
@@ -362,6 +422,7 @@ Australian
 #### World Bowls Championship
 
 **Gold medal – first place**	2012 Men’s Fours
+
 **Gold medal – first place**	2016 Men’s Pairs
 
 #### World Singles Champion of Champions
