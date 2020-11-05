@@ -270,31 +270,31 @@ Australian
 
 #### World Indoor Championships
 
-First place	1999 Men’s Singles
+**Gold medal – first place**	1999 Men’s Singles
 
-First place	2000 Men’s Pairs
+**Gold medal – first place**	2000 Men’s Pairs
 
-First place	2003 Men’s Singles
+**Gold medal – first place**	2003 Men’s Singles
 
-First place	2004 Men’s Pairs
+**Gold medal – first place**	2004 Men’s Pairs
 
-First place	2004 Mixed Pairs
+**Gold medal – first place**	2004 Mixed Pairs
 
-First place	2007 Men’s Singles
+**Gold medal – first place**	2007 Men’s Singles
 
-First place	2008 Men’s Singles
+**Gold medal – first place**	2008 Men’s Singles
 
-First place	2010 Mixed Pairs
+**Gold medal – first place**	2010 Mixed Pairs
 
-First place	2011 Men’s Pairs
+**Gold medal – first place** 2011 Men’s Pairs
 
-First place	2012 Men’s Pairs
+**Gold medal – first place**	2012 Men’s Pairs
 
-First place	2013 Men’s Pairs
+**Gold medal – first place**	2013 Men’s Pairs
 
-First place	2015 Men’s Singles
+**Gold medal – first place**	2015 Men’s Singles
 
-First place	2019 Men’s Pairs
+**Gold medal – first place**	2019 Men’s Pairs
 
 ### Born
 
