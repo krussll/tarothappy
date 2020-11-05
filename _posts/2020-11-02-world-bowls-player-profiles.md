@@ -57,7 +57,7 @@ English
 
 **Nicky Brett uses Henselite bowls. In the 2020 World Indoor Championships, he used a set of Henselite Tiger II.**
 
-https://www.youtube.com/watch?v=T7Yp-ZSpPfc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T7Yp-ZSpPfc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Mark Dawes
 ### Titles
