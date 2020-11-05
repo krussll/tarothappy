@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn bowls rules and etiquette"
+title:  "Best Lawn and Indoor Bowlers In The World | A Helpful Guide"
 author: reece
 categories: [ "help" ]
 image: assets/images/lawn-bowls-players.jpeg
