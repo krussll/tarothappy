@@ -20,6 +20,9 @@ Here is a selection of some of the best bowlers in the world right now. We have 
 
 **Gold medal – first place**	2019	Men's singles
 
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Stewart_Anderson_(bowls)">wikipedia.org</a>
+
 ### Born
 23rd July 1955
 
@@ -45,6 +48,8 @@ English
 
 **Gold medal – first place**	2020	Mixed pairs
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Nick_Brett">wikipedia.org</a>
+
 ### Born
 
 14th May 1974
@@ -67,6 +72,8 @@ English
 
 **Gold medal – first place**	2018 Open pairs
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Mark_Dawes">wikipedia.org</a>
+
 ### Born
 
 7th January 1983
@@ -86,6 +93,8 @@ English
 **Gold medal – first place**	2019 Ladies Singles
 
 **Gold medal – first place**	2020 Ladies Singles
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Julie_Forrest">wikipedia.org</a>
 
 ### Born
 
@@ -141,6 +150,8 @@ Scottish
 
 **Gold medal – first place**	2019 Men’s Pairs
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Paul_Foster_(bowls)">wikipedia.org</a>
+
 ### Born
 
 13th March 1973
@@ -160,6 +171,8 @@ Scottish
 **Gold medal – first place**	2001 Men's Pairs
 
 **Gold medal – first place**	2017 Open Pairs
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Les_Gillett">wikipedia.org</a>
 
 ### Born
 
@@ -185,6 +198,8 @@ English
 
 **Gold medal – first place**	2020	Open pairs
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Greg_Harlow">wikipedia.org</a>
+
 ### Born
 
 6th July 1968
@@ -208,6 +223,8 @@ English
 **Gold medal – first place**	2006 Men's singles
 
 **Gold medal – first place**	2009 Men's pairs
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Mervyn_King_(bowls)">wikipedia.org</a>
 
 ### Born
 
@@ -296,6 +313,8 @@ Australian
 
 **Gold medal – first place**	2019 Men’s Pairs
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Alex_Marshall_(bowls)">wikipedia.org</a>
+
 ### Born
 
 8th February 1967
@@ -328,6 +347,8 @@ Scottish
 
 **Gold medal – first place**	2012 Ladies Singles
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Karen_Murphy_(lawn_bowls)">wikipedia.org</a>
+
 ### Born
 
 18th December 1974
@@ -337,7 +358,7 @@ Australian
 
 ### What bowls does Karen Murphy use?
 
-**Katherine Rednall uses Aero bowls. At the World Championships 2016, she used Aero Optima bowls.**
+**Karen Murphy uses Aero bowls. At the World Championships 2016, she used Aero Optima bowls.**
 
 ## Robert PAXTON
 ### Titles
@@ -354,6 +375,8 @@ Australian
 **Gold medal – first place**	2019	Mixed pairs
 
 **Gold medal – first place**	2020	Men's singles
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Robert_Paxton_(bowls)">wikipedia.org</a>
 
 ### Born
 
@@ -381,6 +404,8 @@ English
 
 **Gold medal – first place**	2018 Women's singles
 
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Katherine_Rednall">wikipedia.org</a>
+
 ### Born
 
 7th January 1996
@@ -400,7 +425,10 @@ English
 **Gold medal – first place**	2012 Men’s Fours
 
 #### World Singles Champion of Champions
+
 **Gold medal – first place**	2010 Men's Singles
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Aron_Sherriff">wikipedia.org</a>
 
 ### Born
 
@@ -414,9 +442,6 @@ Australian
 
 **Aron Sherriff uses Aero bowls. In 2018, he used Aero Optima bowls.**
 
-
-
-
 ## Brett WILKIE
 ### Titles
 #### World Bowls Championship
@@ -428,6 +453,8 @@ Australian
 #### World Singles Champion of Champions
 
 **Gold medal – first place**	2009 Scotland	Men's Singles
+
+>> SOURCE: <a href="https://en.wikipedia.org/wiki/Brett_Wilkie">wikipedia.org</a>
 
 ### Born
 
