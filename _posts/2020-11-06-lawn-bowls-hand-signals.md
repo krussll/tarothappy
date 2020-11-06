@@ -38,7 +38,7 @@ Why use hand signals in the first place? Why not talk? There are several reasons
 There are restrictions on when you can use hand signals. Whilst these are rarely enforced, it’s best to follow them for the sanity of those around!
 
 1. You can ONLY communicate with your team when you have possession of the mat.
-2. Give information (especially the Vice) ONLY when asked for
+2. Give information (especially the Vice) ONLY when asked for.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Oewr1ks_Ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -59,7 +59,7 @@ In this guide, we will assume the bowler is right-handed. Any signal that indica
 This is used to tell the bowler to bowl on their forehand.
 
 
-This signal is done by raising your left hand to indicate the side of the green you want the bowl to come down,
+This signal is done by raising your left hand to indicate the side of the green you want the bowl to come down.
 
 ### Bowl on the backhand
 
@@ -69,7 +69,7 @@ This signal is done by raising your left hand to indicate the side of the green 
 
 This is used to tell the bowler to bowl on their forehand.
 
-This signal is done by raising your left hand to indicate the side of the green you want the bowl to come down,
+This signal is done by raising your left hand to indicate the side of the green you want the bowl to come down.
 
 
 ### Bowl to a spot
@@ -93,7 +93,7 @@ You do this signal by placing your foot sideways next to the aiming spot.
 
 This is used if you want to let the bowler know that a certain bowl is one of ours.
 
-This signal is done by pointing at the bowl and tapping your left shoulder
+This signal is done by pointing at the bowl and tapping your left shoulder.
 
 
 ### Indicating “THEIR BOWL”
@@ -105,7 +105,7 @@ This signal is done by pointing at the bowl and tapping your left shoulder
 This is used if you want to let the bowler know that a certain bowl is one of the oppositions.
 
 
-This signal is done by pointing at the bowl and waving your right hand, as if you’re wafting something away
+This signal is done by pointing at the bowl and waving your right hand, as if you’re wafting something away.
 
 ### Bowls are touching
 
@@ -135,7 +135,7 @@ To do this signal open up your hand, palm facing the bowler and put it above the
 
 As a bowler, it can be tricky to get a sense of depth. It is common to ask the distance between the jack and a bowl. Let the bowler know where the bowl is in relation to the jack by using this signal.
 
-Open both palms. Imagine the left hand is the jack, and the right hand is the bowl in question. Space your hands accordingly to give the bowler an idea of the distance between them (e.g. move your hands closer together to indicate the jack and the bowl are close)
+Open both palms. Imagine the left hand is the jack, and the right hand is the bowl in question. Space your hands accordingly to give the bowler an idea of the distance between them (e.g. move your hands closer together to indicate the jack and the bowl are close).
 
 ## Hand signals - describing shots
 
@@ -158,7 +158,7 @@ To do this signal you tap your left shoulder with your right hand. You tap the n
 If you are losing/lost an end you can indicate how many shots you are down by.
 
 
-To do this you tap your right leg with your right hand. Tap for the number of shots you lost by
+To do this you tap your right leg with your right hand. Tap for the number of shots you lost by.
 
 ### Measure for shot
 
@@ -169,6 +169,6 @@ To do this you tap your right leg with your right hand. Tap for the number of sh
 If you are asked which bowl is shot, and you are unsure, you will want to let the bowler know it would require a measure.
 
 
-You do this by extending your arms wide in front of you. Like you are pulling an imaginary measure
+You do this by extending your arms wide in front of you. Like you are pulling an imaginary measure.
 
 
