@@ -3,7 +3,7 @@ layout: post
 title:  "Lawn Bowls Hand Signals | A Helpful Illustrated Guide"
 author: reece
 categories: [ "help" ]
-image: assets/images/lawn-bowls-players.jpeg
+image: assets/images/lawn-bowls-hand-signals.jpeg
 featured: false
 description: "A guide to the most common hand signals used in lawn bowls. With videos and diagrams to show what they look like, and what they mean"
 ---
