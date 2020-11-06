@@ -45,6 +45,7 @@ Expect your first few roll-ups to be pretty rough. If you haven’t played since
 Your main focus should be on re-building your “muscle memory”. Muscle memory is massively important in lawn bowls, as its a repeated task which requires consistency.
 
 >> “Muscle memory is a form of procedural memory that involves consolidating a specific motor task into memory through repetition, which has been used synonymously with motor learning.”
+>>
 >> <ahref="https://en.wikipedia.org/wiki/Muscle_memory">wikipedia.org</a>
 
 In simple terms, this is training your brain so that it doesn’t have to think about a specific action. For example - we all have those days where we just turn up to the green for a game and you just “bowl”. Everything comes out right, and you hit your line every time. This is muscle memory in action.
