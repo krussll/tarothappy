@@ -52,6 +52,7 @@ In this guide, we will assume the bowler is right-handed. Any signal that indica
 
 ### Bowl on the forehand
 
+<img src="/assets/images/hand-signals/forehand.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -62,6 +63,7 @@ This signal is done by raising your left hand to indicate the side of the green 
 
 ### Bowl on the backhand
 
+<img src="/assets/images/hand-signals/backhand.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -72,6 +74,7 @@ This signal is done by raising your left hand to indicate the side of the green 
 
 ### Bowl to a spot
 
+<img src="/assets/images/hand-signals/bowl-to-a-spot.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -84,6 +87,7 @@ You do this signal by placing your foot sideways next to the aiming spot.
 
 ### Indicating “OUR BOWL”
 
+<img src="/assets/images/hand-signals/our-bowl.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -94,6 +98,7 @@ This signal is done by pointing at the bowl and tapping your left shoulder
 
 ### Indicating “THEIR BOWL”
 
+<img src="/assets/images/hand-signals/their-bowl.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -104,6 +109,7 @@ This signal is done by pointing at the bowl and waving your right hand, as if yo
 
 ### Bowls are touching
 
+<img src="/assets/images/hand-signals/bowls-are-touchng.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -113,6 +119,7 @@ To do this signal make your hands into fists and push them together in front of 
 
 ### Where is the jack
 
+<img src="/assets/images/hand-signals/where-is-the-jack.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -122,6 +129,7 @@ To do this signal open up your hand, palm facing the bowler and put it above the
 
 ### The distance of a bowl in front OR behind the jack
 
+<img src="/assets/images/hand-signals/distance-to-jack.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -133,6 +141,7 @@ Open both palms. Imagine the left hand is the jack, and the right hand is the bo
 
 ### Shots for us
 
+<img src="/assets/images/hand-signals/shots-for-us.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -142,6 +151,7 @@ To do this signal you tap your left shoulder with your right hand. You tap the n
 
 ### Shots against us
 
+<img src="/assets/images/hand-signals/shots-against-us.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
@@ -152,6 +162,7 @@ To do this you tap your right leg with your right hand. Tap for the number of sh
 
 ### Measure for shot
 
+<img src="/assets/images/hand-signals/measure-for-shot.png " alt="" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
