@@ -140,7 +140,7 @@ If you are winning/have won an end you can show how many shots you won by.
 
 To do this signal you tap your left shoulder with your right hand. You tap the number of shots you won.
 
-###Shots against us
+### Shots against us
 
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
