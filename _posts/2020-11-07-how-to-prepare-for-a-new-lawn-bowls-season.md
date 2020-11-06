@@ -62,15 +62,15 @@ No matter what your goals are for the season ahead, its important to get a plan 
 
 There is plenty you can do to prepare before the greens are even open. Here are a few ideas on things you can start on a couple of weeks in advance.
 
-*Research key improvement areas.* Check your notes from last year. When you wrote them the issues were much clearer. Use this to jog your memory on what you were struggling with. 
+**Research key improvement areas.** Check your notes from last year. When you wrote them the issues were much clearer. Use this to jog your memory on what you were struggling with. 
 
 Now is the time to research online, or by talking to fellow bowlers on how to improve on these weaknesses. You want to be prepared with a list of ideas to try, and some drills to measure improvement.
 
-*Begin your visualisation routines.* If you practice visualisation before games, then now is a great time to work those mental muscles. Just like we prepare our bodies to have the muscle memory to play, we must also kick start our minds to visualise properly.
+**Begin your visualisation routines.** If you practice visualisation before games, then now is a great time to work those mental muscles. Just like we prepare our bodies to have the muscle memory to play, we must also kick start our minds to visualise properly.
 
-*Refresh your pre-shot routine.* It is amazing what you forget. Something, as engrained as your pre-shot routine, can get hazy, or even forgotten completely. It is vital that you write down your routine, and any key cues you use. Use this time to review your notes ready for your first practice.
+**Refresh your pre-shot routine.** It is amazing what you forget. Something, as engrained as your pre-shot routine, can get hazy, or even forgotten completely. It is vital that you write down your routine, and any key cues you use. Use this time to review your notes ready for your first practice.
 
-*Book roll-up sessions.* Even if your club doesn’t require you to book a rink (although many do), it’s great to book slots in on your own personal calendar. This way you can plan ahead and organise your bowling around your other responsibilities.
+**Book roll-up sessions.** Even if your club doesn’t require you to book a rink (although many do), it’s great to book slots in on your own personal calendar. This way you can plan ahead and organise your bowling around your other responsibilities.
 
 I would look to get at least 3 1-1.5 hour practice sessions in a week in the build-up to a new season. This should provide ample time to work on your basics and to incorporate any new elements to your game.
 
