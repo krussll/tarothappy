@@ -83,9 +83,9 @@ Restrictions are in place at a regional level so do check with your local associ
 
 ## Bowls
 
-_The bowls for short mat are the same as indoor bowls. In fact, if you already have a set of bowls you use for indoor bowls, you will be able to use them for the short mat game._
+The bowls for short mat are the same as indoor bowls. In fact, if you already have a set of bowls you use for indoor bowls, you will be able to use them for the short mat game. Here is a snippet of the official rules for short mat bowls:
 
-_(a) Bowls shall not exceed 134 mm (5¼”) or be less than 114 mm (4½”) diameter and shall not exceed 1.59 kg (3½ lb) in weight…. (e) The ESMBArecognises bowls which are produced specifically for the use of bowlers in the following codes: Short Mat, Flat Green, Indoor Rink, Crown Green, Federation._
+_... (a) Bowls shall not exceed 134 mm (5¼”) or be less than 114 mm (4½”) diameter and shall not exceed 1.59 kg (3½ lb) in weight…. (e) The ESMBArecognises bowls which are produced specifically for the use of bowlers in the following codes: Short Mat, Flat Green, Indoor Rink, Crown Green, Federation.... _
 
 
 >> SOURCE: <a href="http://www.onwbc.org.uk/documents/shortmat/ESMBA-Laws-of-the-Game2014.pdf">onwbc.org.uk</a>
@@ -99,15 +99,17 @@ _The delivery mat shall be 610mm (24”) long and 356mm (14”) wide or 600mm lo
 
 ## Rink Dimensions
 
-_(b) The maximum length shall be 13750 mm (45’) and the minimum length 12200 mm (40’) including ditches. The width shall be 1830 mm (6’) with a tolerance of 50 mm (2”)._
+The rink itself is 13.7 meters by 12.2 meters wide. The full ruling can be found below:
+
+_...(b) The maximum length shall be 13750 mm (45’) and the minimum length 12200 mm (40’) including ditches. The width shall be 1830 mm (6’) with a tolerance of 50 mm (2”)._
 _(c) The floor surface should be level._
 
 _(a) The centre block shall be 380 mm (15”) long, not less than 70 mm (2¾”) or more than 75 mm (3”) above the surface of the rink mat, with a maximum thickness of 75 mm (3”) and a minimum thickness of 40 mm (1½”)._
 _(b) It may be square or rounded at the ends and must be made of timber._
 _(c) It shall be coloured white and must not be covered by material._
-_(d) It must not be affixed to the surface of the rink mat._
+_(d) It must not be affixed to the surface of the rink mat..._
 
-_All line markings on the rink mat must be in 12mm (1/2") wide white adhesive tape. All markings must be clearly and correctly defined at all times. (See Appendix 4 diagram)._
+_All line markings on the rink mat must be in 12mm (1/2") wide white adhesive tape. All markings must be clearly and correctly defined at all times..._
 
 >> SOURCE: <a href="http://www.onwbc.org.uk/documents/shortmat/ESMBA-Laws-of-the-Game2014.pdf">onwbc.org.uk</a>
 
