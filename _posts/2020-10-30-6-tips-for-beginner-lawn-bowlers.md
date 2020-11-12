@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6 Tips For Beginner Lawn Bowlers"
-categories: [ guide ]
+categories: [ help ]
 author: reece
 image: assets/images/tips-for-beginner-bowlers.jpeg
 description: "Lawn bowls can be tricky for beginners. Read our 6 tips to help you get the most out of your time with lawn bowls"
