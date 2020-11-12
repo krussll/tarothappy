@@ -8,6 +8,52 @@ featured: false
 description: "What are the best straight lawn bowls? Read our guide on why you should consider straighter bowls, and which model is best for you"
 ---
 
+
+## Top 7 straight lawn bowls
+
+<div class="overview">
+  
+<table>
+  <thead>
+    <tr>
+      <th>Brand</th>
+      <th>Model</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Drakes Pride</td>
+      <td>d-tec</td>
+    </tr>
+    <tr>
+      <td>Aero</td>
+      <td>Optima</td>
+    </tr>
+    <tr>
+      <td>Taylor</td>
+      <td>Vector VS</td>
+    </tr>
+    <tr>
+      <td>Aero</td>
+      <td>Quantum</td>
+    </tr>
+    <tr>
+      <td>Henselite </td>
+      <td>Classic II</td>
+    </tr>
+    <tr>
+      <td>Taylor</td>
+      <td>Lazer</td>
+    </tr>
+    <tr>
+      <td>Aero</td>
+      <td>Profile</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 Bowls is all about getting close to the jack. Your draw shot is your bread and butter, and will often be the difference between winning and losing, so it is imperative to be constantly looking for ways to improve it.
 
 Evey competitive bowler will look for an edge in order to win. The best way to improve your draw shot - after technical improvement - is to consider a straighter set of bowls. In this guide, we will take a look at why, as well as recommend a few models.
