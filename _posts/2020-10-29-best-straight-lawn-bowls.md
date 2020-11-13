@@ -106,7 +106,8 @@ Indoor bowls will require the straightest models available. Any model that is co
 
 ### Drakes Pride d-tec
 
-<img src="/assets/images/bowls/drakes-pride/drakes-pride-d-tec-display.jpg" alt="Drakes Pride D-TEClawn bowls" />
+<img src="/assets/images/bowls/drakes-pride/drakes-pride-d-tec-display.jpg" alt="Drakes Pride D-TEC lawn bowls" />
+
 The d-tec is one of the best narrow line bowls available. Ideal for indoor conditions, the d-tec offers a consistent flat finishing draw shot.
 
 ### Aero Defiance
