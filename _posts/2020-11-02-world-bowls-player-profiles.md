@@ -12,7 +12,7 @@ Here is a selection of some of the best bowlers in the world right now. We have 
 
 ## Stewart ANDERSON
 
-<img src="/assets/images/bowls/players/stewart-anderson.jpg" alt="Stewart ANDERSON lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/stewart-anderson.jpg" alt="Stewart ANDERSON lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Championships
@@ -39,7 +39,7 @@ English
 
 ## Nicky BRETT
 
-<img src="/assets/images/bowls/players/nicky-brett.jpg" alt="Nicky BRETT lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/nicky-brett.jpg" alt="Nicky BRETT lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Bowls Championships
@@ -72,7 +72,7 @@ English
 
 ## Mark Dawes
 
-<img src="/assets/images/bowls/players/mark-dawes.jpg" alt="Mark Dawes lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/mark-dawes.jpg" alt="Mark Dawes lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Bowls Championships
@@ -97,7 +97,7 @@ English
 
 ## Julie FORREST
 
-<img src="/assets/images/bowls/players/julie-forrest.jpg" alt="Julie FORREST lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/julie-forrest.jpg" alt="Julie FORREST lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Championships
@@ -122,7 +122,7 @@ Scottish
 
 ## Paul FOSTER
 
-<img src="/assets/images/bowls/players/paul-foster.jpg" alt="Paul FOSTER lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/paul-foster.jpg" alt="Paul FOSTER lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Outdoor Championships
@@ -181,7 +181,7 @@ Scottish
 
 ## Les GILLETT
 
-<img src="/assets/images/bowls/players/les-gillett.jpg" alt="Les GILLETT lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/les-gillett.jpg" alt="Les GILLETT lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Championships
@@ -206,7 +206,7 @@ English
 
 ## Greg HARLOW
 
-<img src="/assets/images/bowls/players/greg-harlow.jpg" alt="Greg HARLOW lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/greg-harlow.jpg" alt="Greg HARLOW lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Bowls Championships
@@ -235,7 +235,7 @@ English
 
 ## Mervyn KING
 
-<img src="/assets/images/bowls/players/mervyn-king.jpg" alt="Mervyn KING lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/mervyn-king.jpg" alt="Mervyn KING lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Championships
@@ -264,7 +264,7 @@ English
 
 ## Barrie LESTER
 
-<img src="/assets/images/bowls/players/barrie-lester.jpg" alt="Barrie LESTER lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/barrie-lester.jpg" alt="Barrie LESTER lawn bowls" style="max-height: 300px" />
 
 ### Titles
 
@@ -284,7 +284,7 @@ Australian
 
 ## Alex MARSHALL
 
-<img src="/assets/images/bowls/players/alex-marshall.jpg" alt="Alex MARSHALL lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/alex-marshall.jpg" alt="Alex MARSHALL lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Outdoor Championships
@@ -359,7 +359,7 @@ Scottish
 
 ## Karen MURPHY
 
-<img src="/assets/images/bowls/players/karen-murphy.jpg" alt="Karen MURPHY lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/karen-murphy.jpg" alt="Karen MURPHY lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Outdoor Championships
@@ -396,7 +396,7 @@ Australian
 
 ## Robert PAXTON
 
-<img src="/assets/images/bowls/players/robert-paxton.jpg" alt="Robert PAXTON lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/robert-paxton.jpg" alt="Robert PAXTON lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Outdoor Championships
@@ -431,7 +431,7 @@ English
 
 ## Katherine REDNALL
 
-<img src="/assets/images/bowls/players/katherine-rednall.jpg" alt="Katherine REDNALL lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/katherine-rednall.jpg" alt="Katherine REDNALL lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Indoor Bowls Championships
@@ -460,7 +460,7 @@ English
 
 ## Aron SHERRIFF
 
-<img src="/assets/images/bowls/players/aron-sherriff.jpg" alt="Aron SHERRIFF lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/aron-sherriff.jpg" alt="Aron SHERRIFF lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Outdoor Championships
@@ -487,7 +487,7 @@ Australian
 
 ## Brett WILKIE
 
-<img src="/assets/images/bowls/players/brett-wilkie.jpg" alt="Brett WILKIE lawn bowls" style="max-height: 300px" />
+<img src="/assets/images/players/brett-wilkie.jpg" alt="Brett WILKIE lawn bowls" style="max-height: 300px" />
 
 ### Titles
 #### World Bowls Championship
