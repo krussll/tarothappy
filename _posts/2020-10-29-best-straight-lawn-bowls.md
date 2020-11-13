@@ -133,7 +133,7 @@ Another one from the Aero range. The Quantum is one of Aero’s dual-purpose mod
 
 ### Henselite Classic II
 
-<img src="/assets/images/bowls/henselite/henselite-classic-ii-display.jpg" alt="Henselite Classic II lawn bowls" />
+<img src="/assets/images/bowls/henseliete/henselite-classic-ii-display.jpg" alt="Henselite Classic II lawn bowls" />
 
 The Classic II is based on the hugely popular Classic model. The main difference is that it’s designed to run straighter, and will a less pronounced “hook” on it’s finish. It is designed for indoor and fast outdoor, but will play straighter on the slower outdoor surfaces.
 
