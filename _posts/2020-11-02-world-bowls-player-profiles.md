@@ -11,6 +11,9 @@ description: "Learn more about your favourite lawn bowlers. Bios with lists of t
 Here is a selection of some of the best bowlers in the world right now. We have broken down their best performaces to date, and we have scowered the latest archives to see what makes and models they are using!
 
 ## Stewart ANDERSON
+
+<img src="/assets/images/bowls/players/stewart-anderson.jpg" alt="Stewart ANDERSON lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Championships
 
@@ -35,6 +38,9 @@ English
 **Stuart Anderson uses Taylor bowls. In the 2020 World Indoor Championships, he used a set of Taylor Ace.**
 
 ## Nicky BRETT
+
+<img src="/assets/images/bowls/players/nicky-brett.jpg" alt="Nicky BRETT lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Bowls Championships
 
@@ -65,6 +71,9 @@ English
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7Yp-ZSpPfc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Mark Dawes
+
+<img src="/assets/images/bowls/players/mark-dawes.jpg" alt="Mark Dawes lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Bowls Championships
 
@@ -87,6 +96,9 @@ English
 **Mark Dawes uses Henselite bowls. At the World Indoor Championships 2020, he used Henselite Tiger Pro.**
 
 ## Julie FORREST
+
+<img src="/assets/images/bowls/players/julie-forrest.jpg" alt="Julie FORREST lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Championships
 
@@ -109,6 +121,9 @@ Scottish
 **Julie Forrest uses Henselite bowls. At the World Indoor Championships 2020, she used Henselite Tiger Pro**
 
 ## Paul FOSTER
+
+<img src="/assets/images/bowls/players/paul-foster.jpg" alt="Paul FOSTER lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Outdoor Championships
 
@@ -165,6 +180,9 @@ Scottish
 **Paul Foster uses Aero bowls. In the 2020 World Indoor Championships, he used a set of Aero GroVe.**
 
 ## Les GILLETT
+
+<img src="/assets/images/bowls/players/les-gillett.jpg" alt="Les GILLETT lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Championships
 
@@ -187,6 +205,9 @@ English
 **Les Gillett uses Drakes Pride bowls. At the World Indoor Championships 2020, he used Drakes Pride Professionals.**
 
 ## Greg HARLOW
+
+<img src="/assets/images/bowls/players/greg-harlow.jpg" alt="Greg HARLOW lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Bowls Championships
 
@@ -213,6 +234,9 @@ English
 **Gregg Harlow uses Henselite bowls. In the 2020 World Indoor Championships, he used a set of Henselite Tiger Evo.**
 
 ## Mervyn KING
+
+<img src="/assets/images/bowls/players/mervyn-king.jpg" alt="Mervyn KING lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Championships
 
@@ -239,6 +263,9 @@ English
 **Mervyn King uses Taylor bowls. At the World Indoor Championships 2020, he used Taylor Aces.**
 
 ## Barrie LESTER
+
+<img src="/assets/images/bowls/players/barrie-lester.jpg" alt="Barrie LESTER lawn bowls" style="max-height: 300px" />
+
 ### Titles
 
 No major titles
@@ -256,6 +283,9 @@ Australian
 **Barry Lester uses Aero bowls. At the World Championships 2016, he used Aero Optima bowls.**
 
 ## Alex MARSHALL
+
+<img src="/assets/images/bowls/players/alex-marshall.jpg" alt="Alex MARSHALL lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Outdoor Championships
 
@@ -328,6 +358,9 @@ Scottish
 **Alex Marshall uses Aero bowls. In the 2020 World Indoor Championships, he used a set of Aero Quantum.**
 
 ## Karen MURPHY
+
+<img src="/assets/images/bowls/players/karen-murphy.jpg" alt="Karen MURPHY lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Outdoor Championships
 
@@ -354,6 +387,7 @@ Scottish
 18th December 1974
 
 ### Nationality
+
 Australian
 
 ### What bowls does Karen Murphy use?
@@ -361,6 +395,9 @@ Australian
 **Karen Murphy uses Aero bowls. At the World Championships 2016, she used Aero Optima bowls.**
 
 ## Robert PAXTON
+
+<img src="/assets/images/bowls/players/robert-paxton.jpg" alt="Robert PAXTON lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Outdoor Championships
 
@@ -386,13 +423,16 @@ Australian
 
 English
 
-### What bowls does Rober Paxton use?
+### What bowls does Robert Paxton use?
 
 **Robert Paxton uses Drakes Pride bowls. In the 2020 World Indoor Championships, he used a set of Drakes Pride Professionals.**
 
 
 
 ## Katherine REDNALL
+
+<img src="/assets/images/bowls/players/katherine-rednall.jpg" alt="Katherine REDNALL lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Indoor Bowls Championships
 
@@ -419,6 +459,9 @@ English
 **Katherine Rednall uses Henselite bowls. At the World Indoor Championships 2019, she used Henselite Tiger Pro.**
 
 ## Aron SHERRIFF
+
+<img src="/assets/images/bowls/players/aron-sherriff.jpg" alt="Aron SHERRIFF lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Outdoor Championships
 
@@ -443,6 +486,9 @@ Australian
 **Aron Sherriff uses Aero bowls. In 2018, he used Aero Optima bowls.**
 
 ## Brett WILKIE
+
+<img src="/assets/images/bowls/players/brett-wilkie.jpg" alt="Brett WILKIE lawn bowls" style="max-height: 300px" />
+
 ### Titles
 #### World Bowls Championship
 
