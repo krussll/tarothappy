@@ -106,9 +106,12 @@ Indoor bowls will require the straightest models available. Any model that is co
 
 ### Drakes Pride d-tec
 
+<img src="/assets/images/bowls/drakes-pride/drakes-pride-d-tec-display.jpg" alt="Drakes Pride D-TEClawn bowls" />
 The d-tec is one of the best narrow line bowls available. Ideal for indoor conditions, the d-tec offers a consistent flat finishing draw shot.
 
 ### Aero Defiance
+
+<img src="/assets/images/bowls/aero/aero-defiance-display.jpg" alt="Aero Defiance lawn bowls" />
 
 The Defiance is the narrowest bowl in the Aero range. I love Aero bowls, mainly for their grip, and sizing options, but they also have fantastically consistent draw arcs throughout their range.
 
@@ -130,6 +133,8 @@ Another one from the Aero range. The Quantum is one of Aero’s dual-purpose mod
 
 ### Henselite Classic II
 
+<img src="/assets/images/bowls/henselite/henselite-classic-ii-display.jpg" alt="Henselite Classic II lawn bowls" />
+
 The Classic II is based on the hugely popular Classic model. The main difference is that it’s designed to run straighter, and will a less pronounced “hook” on it’s finish. It is designed for indoor and fast outdoor, but will play straighter on the slower outdoor surfaces.
 
 ## Straight lawn bowls for fast outdoor greens
@@ -138,9 +143,13 @@ Outdoor greens can be some of the fastest surfaces to play on, therefore we need
 
 ### Taylor Lazer
 
+<img src="/assets/images/bowls/taylor/taylor-lazer-display.jpg" alt="Aero Quantum lawn bowls" />
+
 The Lazer was designed for indoor, and fast outdoor greens. Its the narrowest model in the Taylor range, so it will fit the bill for anyone who plays on fast outdoor rinks regularly.
 
 ### Aero Profile
+
+<img src="/assets/images/bowls/aero/aero-profile-display.jpg" alt="Aero Profile lawn bowls" />
 
 One final Aero recommendation (I did say I was a fan). The Profile model sits near the bottom of the Aero bias chart. Much like the Taylor Lazer, the Profile was designed to be a narrow biased, straighter model. 
 
