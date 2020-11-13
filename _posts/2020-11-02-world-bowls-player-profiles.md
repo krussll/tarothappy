@@ -8,13 +8,13 @@ featured: false
 description: "Learn more about your favourite lawn bowlers. Bios with lists of title won, and what brands and models they use"
 ---
 
-Here is a selection of some of the best bowlers in the world right now. We have broken down their best performaces to date, and we have scowered the latest archives to see what makes and models they are using!
+Here is a selection of some of the best bowlers in the world right now. We have broken down their best performaces to date, and we have scowered the latest archives to see what makes and models they are using.
 
 ## Stewart ANDERSON
 
 <img src="/assets/images/players/stewart-anderson.jpg" alt="Stewart ANDERSON lawn bowls" style="max-height: 300px" />
 
-### Titles
+### Titles 
 #### World Indoor Championships
 
 **Gold medal – first place**	2013	Men's singles
