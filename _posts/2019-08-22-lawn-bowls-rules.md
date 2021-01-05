@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn bowling rules - for beginners"
+title:  "Lawn Bowls Rules For Beginners | A Helpful No Nonsense Guide"
 categories: [ help ]
 author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
