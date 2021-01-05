@@ -7,7 +7,7 @@ image: assets/images/guide-to-barefoot-bowls.jpg
 description: "See our complete guide to barefoot bowls. Covering the rules, benefits, and where to play near you"
 ---
 
-Lawn bowls is a challenging game that requires a high level of expertise and skills to execute the right play. However, for barefoot lawn bowls, you do not need to be an expert to play it. The game offers a lot of physical and therapeutic benefits to its participants. Barefoot lawn bowls can be played by both the old and the young. 
+Lawn bowls is a challenging game that requires a high level of expertise and skills to execute the right play. However, for barefoot lawn bowls, you do not need to be an expert to play it. The game offers a lot of physical and therapeutic benefits to its participants. Barefoot lawn bowls can be played by both the old and the young. If you want more on the basic rules of bowls, then checkout our <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">lawn bowls rules guide</a>.
 
 Although barefoot lawn bowls is a low-impact game, you can play it as a way of enjoying your leisure time or as a challenge in a competition. But what exactly is barefoot lawn bowls? How is it played? How beneficial is the game? And where can you play barefoot lawn bowls? To find answers to these questions, this article will give you a clear guide to barefoot bowls.
 
