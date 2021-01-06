@@ -80,6 +80,9 @@ We recommend playing alongside an experienced bowler to help you the rest of the
 * "First to X" number of shots. This is a common one for singles play. Instead of playing for a certain number of ends, you play until someone gets to a specific score. This is usually "first to 21" and in tight games it can make for a tense (and sometimes very long!) game
 * 2 wood games. Again, another variation on the singles format. In this game each player only gets two bowls. This is a true test of a players' lead abilities
 
+## How long is a game of lawn bowls?
+
+How long is a game of lawn bowls? **A game of bowls will last between 1 and a half hours and 3 hours. The duration of a game of bowls will vary depending on the format. Singles will be on the shorter time frame and Fours taking much longer.**
 
 ## Further Reading
 
