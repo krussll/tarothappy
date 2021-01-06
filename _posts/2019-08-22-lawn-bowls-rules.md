@@ -5,11 +5,11 @@ categories: [ help ]
 author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
 featured: true
-description: "Our guide for the rules of lawn bowls is aimed at beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
+description: "Our guide for the rules of lawn bowls for beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
 last_modified_at: 2021-01-06
 ---
 
-The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of the game, once you understand these you can get out into the greens and learn the rest as you go!
+The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of lawn bowls, once you understand these you can get out into the greens and learn the rest as you go!
 
 ## The Object
 
@@ -23,7 +23,9 @@ Here are the basic items needed for a game of bowls:
 * Bowls (balls) - these are larger balls (referred to as "bowls" or "woods") that players use to roll towards the jack. They weigh no more than 3.5 pounds and are weighted on one side which allows them to curve. The weighted side has a stamp on it so you know which side is which. The number of bowls each player requires differs depending on the number of players. This is covered later  <br/> <img src="/assets/images/lawn-bowl.jpg" height="200px" />
 * Mats - two mats are required. Usually made of rubber, and are roughly the size 2 of a door mat. <br/> <img src="/assets/images/lawn-bowl-mat.jpg" height="200px" />
 
-## Playing the Game
+## Playing the Game - Lawn Bowls Rules
+
+What are the rules of lawn bowls?:
 
 * A coin is tossed to decide which team bowl first. 
 * The first bowler places the mat. It must be placed centrally - see below for more details on how to place the mat
