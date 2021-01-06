@@ -39,7 +39,7 @@ Here are the basic items needed for a game of bowls:
 
 ## Placing the mat
 
-**The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the back edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
+What are the lawn bowls mat placement rules? **The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the back edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
 
 
 ## Scoring the Game
@@ -51,6 +51,8 @@ Here are the basic items needed for a game of bowls:
 ## Winning the game
 
 * The team who has received the most points (or "shots") after all the ends are played is the winner. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dtqei4K5Rw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Number of players, bowls and ends
 
