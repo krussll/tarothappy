@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to care for lawn bowls | a helpful guide"
+title:  "How To Care For Lawn Bowls | A Helpful Guide"
 categories: [ help ]
 author: reece
 image: assets/images/lawn-bowl-care.jpeg
