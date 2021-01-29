@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn Bowls is a Dying Sport. How can it be Saved?"
+title:  "Is Lawn Bowls is a Dying Sport. How can it be Saved?"
 author: reece
 categories: [ help ]
 image: assets/images/is-lawn-bowls-a-dying-sport.jpeg
