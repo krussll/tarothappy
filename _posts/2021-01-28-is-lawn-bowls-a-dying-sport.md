@@ -5,14 +5,14 @@ author: reece
 categories: [ help ]
 image: assets/images/is-lawn-bowls-a-dying-sport.jpeg
 featured: false
-description: "Lawn bowls could be gone at an ametuer level in less than 20 years. Much is needed to save it. Here are my suggestions."
+description: "Lawn bowls could be gone at an ametuer level in less than 15 years. Much is needed to save it. Here are my suggestions."
 ---
 
 ## Is lawn bowls a dying sport?
 
 Lawn bowls is a popular game, played by millions around the world. It has a global TV reach and dedicated professional, and amateur players alike. However, lawn bowls as a sport needs to face facts. The game is slowly dying and has been for some time.
 
-Is lawn bowls a dying sport? **The sport may have grown through new countries and territories in recent decades, however, in its heartlands the sport is on the decline. I believe that without urgent and drastic action the sport could no longer be viable at an amatuer level in the next 20 years.**
+Is lawn bowls a dying sport? **The sport may have grown through new countries and territories in recent decades, however, in its heartlands the sport is on the decline. I believe that without urgent and drastic action the sport could no longer be viable at an amatuer level in the next 15 years.**
 
 As I am based in the UK I will be looking at this from a UK perspective - however much of what I say and believe will be true for other territories around the world.
 
@@ -115,6 +115,8 @@ Just as cricket is planning to do with “The Hundred”, bowls should be able t
 ### Relaxed competitions
 
 The blueprint for such a tournament can be seen in Australia with the ABL and UBC. These are competitions made for television.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Uz0oGpUCrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The relaxed, partisan approach is much more approachable for a casual audience. The days of the gentleman bowler are numbered, and people want something different.
 
