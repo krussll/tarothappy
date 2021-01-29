@@ -4,12 +4,18 @@ title:  "Everything you wanted to know about lawn bowls"
 author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
-description: "Everything you wanted to know about lawn bowls"
+description: "A quick FAQ answering the most common questions about lawn bowls"
+last_modified_at: 2020-10-22
 ---
+
+
+## What are the balls called in lawn bowls?
+
+**In lawn bowls the balls are called "bowls" or "woods".** "Woods" is reference to the fact they used to be made out of wood, however the more common term these days is "bowls".
 
 ## What are bowls made of?
 
-Lawn bowls were originally made of wood, but are now made with composite plastic. 
+**Lawn bowls were originally made of wood, but are now made with composite plastic.**
 
 This not only makes the bowls last longer, but also allows for manufacturers to make the bowls to the same specification each and every time.
 
@@ -40,4 +46,8 @@ If you want to find out more about what brands and models suit you, check out ou
 ## What is jack high in lawn bowls?
 
 **"Jack High" refers to a bowl that finishes directly parallel to the jack. Both the jack and the bowl were delivered with the exact same force (or "weight"). This is the ideal result for a delivery in lawn bowl.**
+
+## Are all lawn bowls the same weight?
+
+**No, not all lawn bowls are the same weight. Depending on the size of bowl they can range from 1.1kg through to 1.5kg**
 
