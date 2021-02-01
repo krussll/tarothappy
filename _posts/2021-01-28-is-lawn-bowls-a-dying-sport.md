@@ -52,6 +52,10 @@ This is presented as an “image” issue, however it's more of a “matter of f
 
 Due to the restrictions put in place due to COVID-19 we are seeing bowls disproportionately affected. No members playing means more clubs going under.
 
+<img src="/assets/images/cramlington-bowling-club-lawn-bowls-northumberland-header2-250px.jpg" alt="cramlington bowls club closes for 2020 season" />
+
+>> [Cramlington Bowls Club](https://www.cramlingtonbowlingclub.co.uk/cramlington-bowling-green-closure/) was one of many bowls clubs that had to close for the 2020 season
+
 Clubs currently rely on a core of players to make up numbers in 4 rink leagues and friendlies. If even a small minority of these core players leave, then the number of leagues and teams would be untenable.
 
 ### A drop in membership across the UK
@@ -60,11 +64,15 @@ The number of players playing in the UK has dropped by a third since the turn of
 
 This is the outcome from poor recruitment and an ever increasing number leaving the sport, either due to clubs going under, or ill health.
 
+>> According to Bowls England there are 10 per cent fewer club members in the UK than there were just five years ago.
+>>
+>> [itv.com](https://www.itv.com/news/meridian/2019-09-25/why-is-lawn-bowls-struggling-to-attract-players0)
+
 ### Club closures
 
 Clubs are becoming financially “at-risk”. This is a combination of losing players, rising costs, and dwindling cash reserves.
 
-The closure of clubs is being pushed on faster due to COVID-19 pandemic despite the best intentions and actions of Bowls England and UK Sport.
+The closure of clubs is being pushed on faster due to COVID-19 pandemic despite the best intentions and actions of [Bowls England and UK Sport](https://www.bowlsengland.com/additional-funding-available-for-bowls-clubs/).
 
 It is still unknown how many clubs will close over the off-season. Many clubs will be concerned about making their normal number allocations.
 
