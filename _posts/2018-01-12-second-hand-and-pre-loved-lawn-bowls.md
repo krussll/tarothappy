@@ -12,7 +12,7 @@ Buying a new set of woods is always an exciting experience, however for most bow
 
 In this guide we will be looking at the most popular sites, as well as what you should look for in your next purchase, what to expect from the process, and how to get the best deal. So, let's jump in!
 
-## What you need to know
+## What you need to know 
 
 Before you get going it's probably best to consider what you'll want and what you need. We suggest asking the following questions:
 
