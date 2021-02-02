@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
 description: "A quick FAQ answering the most common questions about lawn bowls"
-last_modified_at: 2020-10-22
+last_modified_at: 2021-02-02
 ---
 
 
@@ -50,4 +50,8 @@ If you want to find out more about what brands and models suit you, check out ou
 ## Are all lawn bowls the same weight?
 
 **No, not all lawn bowls are the same weight. Depending on the size of bowl they can range from 1.1kg through to 1.5kg**
+
+## Can you play lawn bowls in the rain?
+
+**Yes, you can play lawn bowls in light rain. However, in heavier rain you will have to stop to protect the green.**
 
