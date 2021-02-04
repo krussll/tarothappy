@@ -35,7 +35,7 @@ post_class: post-template
 			</div>
 
 			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}" itemprop="image">{% endif %}
+			{% if page.image %}<img class="featured-image img-fluid lazyload" data-src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}" itemprop="image">{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
@@ -83,7 +83,7 @@ post_class: post-template
                 {% if page.author %}
 				<div class="row post-top-meta" itemprop="author" itemscope itemtype="http://schema.org/Person">
 					<div class="col-md-2">
-						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+						<img class="author-thumb lazyload" data-src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
 						     alt="{{ author.display_name }}">
 					</div>
 					<div class="col-md-10">
