@@ -84,6 +84,8 @@ Lawn bowls have been a part of the Para-Commonwealth Games since it’s inceptio
 Now we know how they are similar, it’s time to look at why bocce is different to lawn bowls. Here are the 5 main reasons.
 
 
+<img src="/assets/images/bocce/bocce.png" alt="lawn bowls vs bocce" height="200px" style="max-height: 300px;" />
+
 >> https://worldbocce.org/how-to-play-bocce.html
 
 
@@ -111,6 +113,8 @@ Bocce can be played pretty much anywhere and on any surface. Common surfaces inc
 
 ### The ditch
 
+<img src="/assets/images/bocce/lawn-bowls-ditch.png" alt="lawn bowls vs bocce" height="200px" style="max-height: 300px;" />
+
 >> [A lawn bowls ditch](https://www.cliftonrubber.co.uk/product/bowls-green-ditch-liner/)
 
 
@@ -120,6 +124,8 @@ Bowls rinks have ditches at each end and have extra rules associated with them. 
 For example, a bowl can be removed from play by hitting it into the ditch.
 
 ### Regions of play
+
+<img src="/assets/images/bocce/guide-to-bocce.png" alt="lawn bowls vs bocce" height="200px" style="max-height: 300px;" />
 
 >> [A game of bocce](https://en.wikipedia.org/wiki/Bocce)
 
