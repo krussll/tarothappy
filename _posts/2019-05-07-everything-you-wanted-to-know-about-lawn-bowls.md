@@ -53,7 +53,7 @@ If you want to find out more about what brands and models suit you, check out ou
 
 ## Can you play lawn bowls in the rain?
 
-**Yes, you can play lawn bowls in light rain. However, in heavier rain you will have to stop to protect the green. According to Bowls Australia play can continue "If it begins to rain, play will continue until the Competition Manager deems it unsafe to do so or the greens become unplayable." [Bowls Australia Weather Policy](https://www.bowls.com.au/wp-content/uploads/2018/11/WEATHER-POLICY.pdf)** 
+**Yes, you can play lawn bowls in light rain. However, in heavier rain you will have to stop to protect the green. According to Bowls Australia play can continue "If it begins to rain, play will continue until the Competition Manager deems it unsafe to do so or the greens become unplayable." ([Bowls Australia Weather Policy](https://www.bowls.com.au/wp-content/uploads/2018/11/WEATHER-POLICY.pdf))** 
 
 Here is a video showing that lawn bowls can be - and often is - played in quite heavy rain.
 
