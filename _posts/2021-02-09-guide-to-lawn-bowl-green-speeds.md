@@ -3,7 +3,7 @@ layout: post
 title:  "Guide to Lawn Bowl Green Speed | What is it? And how is it measured?"
 author: reece
 categories: [ help ]
-image: assets/images/lawn-bowls-green-speed.jog
+image: assets/images/lawn-bowls-green-speed.jpg
 featured: false
 description: "Green speed can also affect what bowl model you use. Some models are designed for specific conditions, so it’s important to understand what affects speeds, and how to judge a green."
 ---
