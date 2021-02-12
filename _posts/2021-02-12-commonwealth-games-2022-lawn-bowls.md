@@ -104,17 +104,18 @@ With the restrictions on COVID and the chance that some teams may pull out of co
 Here are the most successful countries in Commonwealth history. Keep an eye out for the top 5 as these countries are known for sending strong teams to the Games, and will be in the hunt for most of the medals on offer!
 
 | Rank	| Nation |	Gold |	Silver |	Bronze |	Total |
-| ------------- |:-------------:| -----:|
+| ---	| --- |	--- |	--- |	--- |	--- |
 | 1	| Scotland	| 	20	|	10	|	9	|	39 |
 | 2	|  England	| 	20	|	9	|	22	|	51 |
 | 3	| South Africa	| 	19	|	11	|	14	|	44 |
-| 4	| Australia	14	| 	23	|	13	|	50 |
+| 4	| Australia	|	14	| 23	|	13	|	50 |
 | 5	| New Zealand	| 	12	|	12	|	16	|	40 |
 | 6	| Wales		| 5	|	11	|	14	|	30 |
 | 7	| Northern Ireland	| 4	|	5	|	11	|	20 |
 | 8	| Malaysia	| 4	| 4	| 8	| 16 |
 | 9	| Zimbabwe	| 	3	| 2	| 7	| 12 |
 | 10	| Hong Kong	| 	3	| 2	| 6	|	11 |
+
 
 ## Following the bowls on TV and radio
 
