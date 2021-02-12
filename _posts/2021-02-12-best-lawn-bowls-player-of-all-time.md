@@ -6,7 +6,7 @@ categories: [ help ]
 image: assets/images/best-lawn-bowls-player-of-all-time.jpg
 featured: false
 description: "In this guide, I will try to pick through the arguments, and to decide who “the best lawn bowler of all time” is."
-last_modified_at: 2021-02-09
+last_modified_at: 2021-02-12
 ---
 
 
