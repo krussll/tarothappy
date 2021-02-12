@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Is Lawn Bowls is a Dying Sport. How can it be Saved?"
+title:  "Lawn Bowls Is A Dying Sport. How Can It Be Saved?"
 author: reece
 categories: [ help ]
 image: assets/images/is-lawn-bowls-a-dying-sport.jpeg
 featured: false
 description: "Lawn bowls could be gone at an ametuer level in less than 15 years. Much is needed to save it. Here are my suggestions."
+last_modified_at: 2021-02-12
 ---
 
 ## Is lawn bowls a dying sport?
