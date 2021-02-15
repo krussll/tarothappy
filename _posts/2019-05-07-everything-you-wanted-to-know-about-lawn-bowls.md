@@ -4,8 +4,8 @@ title:  "Lawn Bowls: 9 Things Every Beginner Needs To Know"
 author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
-description: "A quick FAQ answering the most common questions about lawn bowls"
-last_modified_at: 2021-02-02
+description: "Answers to the most common questions asked by beginners."
+last_modified_at: 2021-02-25
 ---
 
 
