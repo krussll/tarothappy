@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Everything you wanted to know about lawn bowls"
+title:  "Lawn Bowls: 9 Things Every Beginner Needs To Know"
 author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
