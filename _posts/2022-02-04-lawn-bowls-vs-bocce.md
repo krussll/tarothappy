@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Lawn Bowls vs Bocce | A Simple Illustrated Guide"
+title:  "Lawn Bowls vs Bocce (9 Similarities and Differences) | A Simple Illustrated Guide"
 author: reece
 categories: [ help ]
 image: assets/images/lawn-bowls-vs-bocce.jpg
 featured: false
 description: "A guide looking at the differences between lawn bowling and bocce. Are they the same? And which is better?"
-last_modified_at: 2021-02-09
+last_modified_at: 2021-02-19
 ---
 
 Lawn bowls and bocce are often confused. From a distance, they look very similar, but they are very different sports.
