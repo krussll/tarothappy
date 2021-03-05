@@ -13,7 +13,7 @@ last_modified_at: 2021-03-04
 Acclaim are much like Dek (more on them later), in so much as they do one thing and they do it well. Acclaim are well known for their superior bowls bags.
 
 Acclaim have a wide range of quality bags, from small bowls holders, through to trolley style bags and everything in between.
-
+ 
 They cover all styles and tastes and are truly masters of their field.
 
 <div class="overview"  markdown="1">
@@ -37,7 +37,7 @@ Many of the Almark models are designed for indoor, and fast outdoor play. Whilst
 Dek are a shoe manufacturer and have recently entered the lawn bowls arena specialising in affordable, quality bowls shoes.
 
 I've added them to this list as they offer great value. They stick to what they do best, making bowls shoes that don't break the bank.
-
+ 
 It's great having the premium brands that go above and beyond, as well as those who push the boundaries of technology. However, there is always space for a brand that does the basics well.
 
 <div class="overview"  markdown="1">
@@ -54,7 +54,7 @@ Drakes Pride as we know it today came into existence in the early 1980s. Drakes 
 
 Drakes Pride match their forward facing approach to other aspects of their range, including their modern shoes.
 
-In their bowls ranges, they still rely heavily on the popularity of their Professional model. The Professional is one of the best on the market, however, the competiton is getting stiffer and I feel they need to improve their overall range to compete in the future.
+In their bowls ranges however, they still rely heavily on the popularity of their Professional model. The Professional is one of the best on the market, however, the competiton is getting stiffer and I feel they need to improve their overall range to compete in the future.
 
 <div class="overview"  markdown="1">
   
