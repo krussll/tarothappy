@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Lawn Bowls: 9 Things Every Beginner Needs To Know"
+title:  "Lawn Bowls: 10 Things Every Beginner Needs To Know"
 author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
 description: "Answers to the most common questions asked by beginners."
-last_modified_at: 2021-02-25
+last_modified_at: 2021-03-26
 ---
 
 
@@ -37,7 +37,7 @@ Bowls do need to be “stamped” every couple of years if you want to compete a
 
 **The best lawn bowls brands are Aero, Drakes Pride, Thomas Taylor, and Henselite. These 4 brands produce nearly all of the lawn bowls sold Worldwide. Aero and Henselite are the best brands found in Australia, whereas Drakes Pride and Thmas Taylor are the best UK brands.**
 
-If you want to find out more about what brands and models suit you, check out our <a href="/review">lawn bowl reviews</a>, otherwise, you can see our <a href="/guide/best-lawn-bowls-brands">top lawn bowls brands of 2020</a>.
+If you want to find out more about what brands and models suit you, check out our <a href="/review">lawn bowl reviews</a>, otherwise, you can see our <a href="/guide/best-lawn-bowls-brands">top lawn bowls brands of 2021</a>.
 
 ## How long do lawn bowls last?
 
@@ -58,3 +58,7 @@ If you want to find out more about what brands and models suit you, check out ou
 Here is a video showing that lawn bowls can be - and often is - played in quite heavy rain.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ayJFAys1EJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What bowls do the professionals use?
+
+**The most popular bowls for professionals playing indoor bowls are Taylor Ace, Drakes Pride Professional, Henselite Tiger II and Sero GroOVe.** You can see which bowls each of the top players uses by checking coverage from the World Bowls Indoor Championchips [World Bowls Tour](https://www.youtube.com/channel/UCN9-c2EDRAjclRkUXk1TuBA).
