@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn Bowls: 10 Things Every Beginner Needs To Know"
+title:  "Lawn Bowls: 11 Things Every Beginner Needs To Know"
 author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
@@ -62,3 +62,7 @@ Here is a video showing that lawn bowls can be - and often is - played in quite 
 ## What bowls do the professionals use?
 
 **The most popular bowls for professionals playing indoor bowls are Taylor Ace, Drakes Pride Professional, Henselite Tiger II and Sero GroOVe.** You can see which bowls each of the top players uses by checking coverage from the World Bowls Indoor Championchips [World Bowls Tour](https://www.youtube.com/channel/UCN9-c2EDRAjclRkUXk1TuBA).
+
+## How much does a set of lawn bowls cost?
+
+**A brand new set of 4 bowls can cost between £219-£350. The price can go higher if you want extras, such as unique grips, or custom logos.** Bowls are available secondhand, and a set in decent condition can be found for under £50.
