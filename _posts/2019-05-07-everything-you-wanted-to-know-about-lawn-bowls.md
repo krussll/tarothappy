@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 image: assets/images/everything-you-wanted-to-know-about-bowls.jpg
 description: "Answers to the most common questions asked by beginners."
-last_modified_at: 2021-03-26
+last_modified_at: 2021-03-28
 ---
 
 
