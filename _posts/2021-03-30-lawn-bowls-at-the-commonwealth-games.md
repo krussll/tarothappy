@@ -10,7 +10,7 @@ description: "A guide taking you through the basics of lawn bowls at the Commonw
 
 Lawn Bowls is one of the core sports at The Commonwealth Games, having featured in all but one edition of the Games since the first competition in Hamilton, Canada, in 1930
 
-## What is the commonwealth games?
+## What is the Commonwealth Games?
 
 >> The Commonwealth Games is an international multi-sport event involving athletes from the Commonwealth of Nations. The event was first held in 1930, and, with the exception of 1942 and 1946, has taken place every four years since then.[1] The Commonwealth Games were known as the British Empire Games from 1930 to 1950, the British Empire and Commonwealth Games from 1954 to 1966, and British Commonwealth Games from 1970 to 1974. 
 
@@ -87,7 +87,7 @@ England’s most successful Commonwealth games lawn bowler was David Bryant, win
 
 >> Team England have a strong lawn bowls pedigree with Ellen Faulkner and para-lawn bowler Paul Brown both winning medals at the Glasgow 2014 Commonwealth Games. Ellen Falkner is one of England's most successful lawn bowlers, having competed at five Games and won five medals
 >>
->> https://teamengland.org/commonwealth-games-sports/lawn-bowls
+>> [Team England](https://teamengland.org/commonwealth-games-sports/lawn-bowls)
 
 ## Scotland Lawn bowls at The Commonwealth games
 
@@ -98,7 +98,7 @@ Scotland’s Alex Marshall is the most successful Commonwealth games lawn bowler
 
 
 
->> https://www.teamscotland.scot/commonwealth-games/sports-in-the-games/lawn-bowls/
+>> [Team Scotland](https://www.teamscotland.scot/commonwealth-games/sports-in-the-games/lawn-bowls/)
 
 ## Lawn Bowls at the Commonwealth Games 2022
 
@@ -131,7 +131,7 @@ With regards to the B6/B7/B8 Open Triples event, the team must include at least 
 
 B6/B7/B8 Open Triples: Each athlete will use two bowls with the games being 15 ends.
 
->> https://results.gc2018.com/resCG2018-/pdf/CG2018-/LBO/CG2018-_DT_BCK__LBO-------------------------------_170_ENG.pdf
+>> [Para-Bowls Rules](https://results.gc2018.com/resCG2018-/pdf/CG2018-/LBO/CG2018-_DT_BCK__LBO-------------------------------_170_ENG.pdf)
 
 ### Para-Bowls Tournement Format
 
