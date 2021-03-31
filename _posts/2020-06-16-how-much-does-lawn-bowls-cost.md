@@ -5,13 +5,20 @@ author: reece
 categories: [ help ]
 image: "assets/images/how-much-does-lawn-bowls-cost.jpg"
 description: "Is lawn bowls expensive? How much do I need to start playing lawn bowls? This cost guide will tell you how much you will need as a beginner"
+last_modified_at: 2021-03-31
 ---
 
 Lawn bowls is one of the cheapest games you can take up. Compared to other sports that require expensive equipment, lawn bowls only requires you to have a flat pair of shoes, everything else can be borrowed to start you off. When you approach a club as a new player they will often have all of the necessary equipment ready for you to borrow so you can get going straight away.
 
 However, if you decide to take up the sport, either competitively or just socially you’ll want to consider a few costs
 
-## How much does lawn bowls cost?
+## How much does a set of lawn bowls cost?
+
+**A brand new set of 4 bowls can cost between £219-£350. The price can go higher if you want extras, such as unique grips, or custom logos.** Bowls are available secondhand, and a set in decent condition can be found for under £50.
+
+A set of bowls will likely be the most expensive thing you will need before you can start playing. That said, there are other costs to be aware of before you can take to the greens.
+
+## How much does lawn bowls cost to play?
 
 Whilst you can give lawn bowls a try for virtually nothing, you can expect to pay anything from £120 to upwards of £400 to get all of the necessary equipment.
 
