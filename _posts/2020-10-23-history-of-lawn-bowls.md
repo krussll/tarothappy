@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The history of lawn bowls | A helpful guide"
+title:  "The History Of Lawn Bowls | A Helpful Guide"
 author: reece
 categories: [ help ]
 image: assets/images/history-of-lawn-bowls.jpeg
