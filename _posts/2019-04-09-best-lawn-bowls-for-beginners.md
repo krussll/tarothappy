@@ -94,6 +94,7 @@ Different positions in a bowls team will require different bowls. For example a 
   * <a href="/help/lawn-bowls-player-positions">Player roles in lawn bowls</a>
   * <a href="/guide/best-rated-bowls-for-leads">Best rated bowls for leads</a>
   * <a href="/help/lawn-bowls-tips-for-leads">Tips for leads</a>
+  * [Ultimate Guide to Line Control]({% post_url 2021-03-30-ultimate-guide-to-line-control %})
   
 </div> 
 
