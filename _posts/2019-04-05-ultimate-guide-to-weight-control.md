@@ -97,6 +97,8 @@ The inconsistent stance can cause issues due to extra “body action” going th
 
 It is also important to note the impact an inconsistent line can have on your ability to judge shot length. A bowl with a wide line will need to travel further to get to the same length as a correctly lined shot. Keep this in mind if you bowl a short, wide bowl. It could just be your line was off, and you may not need to overcompensate on the weight. 
 
+See my  [Ultimate Guide to Line Control]({% post_url 2021-03-30-ultimate-guide-to-line-control %}) for tips on how to improve.
+
 ### Actionable steps
 
 We've gone through a lot of theory and ideas. Now let's look at how we can take action. There are many was to look at your technique to see what refinements can be made. 
