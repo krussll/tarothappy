@@ -46,6 +46,10 @@ pre {
 section {
 	margin-bottom:20px;
 }
+
+iframe, table {
+	margin-bottom:20px;
+}
 section.featured-posts {
     margin-bottom:30px;
 }
