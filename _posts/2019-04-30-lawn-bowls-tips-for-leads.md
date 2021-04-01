@@ -42,13 +42,15 @@ Finally, if your opponent is on top, then mix up your game play. If you get the 
 Knowing that the aim of a lead is to get consistently in the head it helps to aim for an area, and not to land on the jack itself. This can help with “overcorrection issues, especially when  dealing with only slight adjustments. Within 2 feet of the jack is an ideal area to aim for.
 
 ## Do your drills
+
 Practice makes perfect, but smart practice is better!
 
 ### Land the mat
- Outcome goal:
-To land as many shots as possible in the target area
 
-The method:
+**Outcome goal:** To land as many shots as possible in the target area
+
+**The method:**
+
 You will need 6 mats and 4 bowls for this exercise.
 
 Place five mats as a target area at one end of the rink. This should be 3 mat lengths long (a weight target) and 2 mat lengths wide (a line target).
@@ -61,12 +63,14 @@ For a more detailed look at this drill please see the video below. This shows ex
 
 Repeat for multiple ends. Try moving your delivery mat and/or the target mats to replicate different lengths. Aim to practice on a good mix of lengths over the course of the session.
 
+This is covered in my [Ultimate Guide to Line Control]({% post_url 2021-03-30-ultimate-guide-to-line-control %}). See this for more help in controling your line.
+
 ### Practice jack rolling
 
-Outcome goal:
-To be comfortable rolling a jack to any specific length.
+**Outcome goal:** To be comfortable rolling a jack to any specific length.
 
-The method:
+**The method:**
+
 This exercise is as simple as getting a box of jacks and aiming for specific marks on the green.
 
 We would recommend starting by placing a single marker down (a mat will be fine for this) and aiming to land on it with as many jacks as possible. This will replicate a game where your team is on top and you need to hit the same length to maintain the advantage.
@@ -82,6 +86,3 @@ Selecting a set of bowls with a narrow, consistent line will help you find those
 We have an in-depth guide to <a href="https://www.jackhighbowls.com/guide/best-rated-bowls-for-leads">the best bowls for leads</a>, with a range of models and price points for you to select from.
 
 A good lead is vital to any successful bowls team. By focusing on your basics you will always be putting your team in a great position. Offer that solid foundation and you will find success won't be far behind.
-
-
-
