@@ -6,7 +6,7 @@ author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
 featured: true
 description: "Our guide for the rules of lawn bowls for beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
-last_modified_at: 2021-01-06
+last_modified_at: 2021-04-06
 ---
 
 The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of lawn bowls, once you understand these you can get out into the greens and learn the rest as you go!
@@ -16,28 +16,39 @@ The best way to learn lawn bowls is by playing it. Here is our rundown of the ba
 The aim of lawn bowling is to roll your bowl as close to a smaller white ball (known as the jack) as possible
 You want to get one or more of your bowls closer to the jack than your opponent
 
-## Playing the Game - Lawn Bowls Rules
+## Playing the Game
 
 What are the rules of lawn bowls?:
 
-* A coin is tossed to decide which team bowl first. 
-* The first bowler places the mat. It must be placed centrally - see below for more details on how to place the mat
-* When playing any shot the player bowling must always have one foot on the mat
-* The first bowler rolls the jack to whatever distance they like. The only restrictions is it must be at least 25 meters from the mat, and must stay out of the ditch. There is usually a marker on the rink to show where the minimum distance is
-* Once the jack has come to rest it is placed centrally by the marker with the help of the bowler. The jack now becomes the target
-* Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over
-* Any bowls that are in play can be moved by another shot, and they stay active to where they finish. This includes the jack! 
-* Any bowl that finishes in the ditch is considered out of play
-* Once all players have finished their shots the game is scored (see below for details on how to score)
-* The winning team will get to go first on the next "end" (or leg). This will be played in the opposite direction to the previous end
-* The game continues until a predetermined number of ends are played - usually 18 or 21 
+A coin is tossed to decide which team bowl first. The first bowler places the mat. It must be placed centrally - see below for more details on how to place the mat.
+
+The first bowler rolls the jack to whatever distance they like. The only restrictions is it must be at least 25 meters from the mat, and must stay out of the ditch. There is usually a marker on the rink to show where the minimum distance is.
+
+Once the jack has come to rest it is placed centrally by the marker with the help of the bowler. The jack now becomes the target.
+
+Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over. When playing any shot the player bowling must always have one foot on the mat.
+
+Any bowls that are in play can be moved by another shot, and they stay active to where they finish. This includes the jack. Any bowl that finishes in the ditch is considered out of play.
+
+Once all players have finished their shots the game is scored. The winning side gets one point for each bowl that is closer to the jack than their opponent's nearest bowl.
+
+The winning team will get to go first on the next "end". This will be played in the opposite direction to the previous end.
 
 ## The Equipment
 
 Here are the basic items needed for a game of bowls:
-* The Jack - small ball. Usually white, sometimes yellow. Used as the target in the game. 1 is required  <br/> <img src="/assets/images/white-jack.jpg" height="200px" />
-* Bowls (balls) - these are larger balls (referred to as "bowls" or "woods") that players use to roll towards the jack. They weigh no more than 3.5 pounds and are weighted on one side which allows them to curve. The weighted side has a stamp on it so you know which side is which. The number of bowls each player requires differs depending on the number of players. This is covered later  <br/> <img src="/assets/images/lawn-bowl.jpg" height="200px" />
-* Mats - two mats are required. Usually made of rubber, and are roughly the size 2 of a door mat. <br/> <img src="/assets/images/lawn-bowl-mat.jpg" height="200px" />
+
+### The Jack
+
+The jack is a small ball - usually white, but sometimes yellow. Used as the target in the game. One is required for a game of bowls.
+
+### Bowls
+
+These are larger balls (referred to as "bowls" or "woods") that players use to roll towards the jack. They weigh no more than 3.5 pounds and are weighted on one side which allows them to curve. The weighted side has a stamp on it so you know which side is which. The number of bowls each player requires differs depending on the number of players. 
+
+### Mats 
+
+Two mats are required for a game, one is placed at either end of the green. Mats are made of rubber, and are roughly the size of a door mat.
 
 
 ## Placing the mat
@@ -53,7 +64,7 @@ What are the lawn bowls mat placement rules? **The mat must be placed by the bow
 
 ## Winning the game
 
-* The team who has received the most points (or "shots") after all the ends are played is the winner. 
+The team who has received the most points (or "shots") after all the ends are played is the winner. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dtqei4K5Rw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
