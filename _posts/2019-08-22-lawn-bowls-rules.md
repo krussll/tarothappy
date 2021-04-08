@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Lawn Bowls Rules For Beginners | A Helpful No Nonsense Guide"
+title:  "Lawn Bowls Rules For Beginners - How To Play Bowls | A Helpful Illustrated Guide"
 categories: [ help ]
 author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
 featured: true
 description: "Our guide for the rules of lawn bowls for beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
-last_modified_at: 2021-04-06
+last_modified_at: 2021-04-08
 ---
 
 The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of lawn bowls, once you understand these you can get out into the greens and learn the rest as you go!
