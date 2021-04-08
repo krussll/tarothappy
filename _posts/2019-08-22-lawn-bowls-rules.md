@@ -95,6 +95,21 @@ We recommend playing alongside an experienced bowler to help you the rest of the
 
 How long is a game of lawn bowls? **A game of bowls will last between 1 and a half hours and 3 hours. The duration of a game of bowls will vary depending on the format. Singles will be on the shorter time frame and Fours taking much longer.**
 
+## How many end in lawn bowls
+
+**The number of ends played in a game of lawn bowls will vary between 18 and 21 depending on the format. Here is an overview on how many ends are played in bowls based on the format of play.**
+
+Number of players | Number of ends played
+1 (singles) | 21
+2 (doubles) | 21
+3 (triples) | 18
+4 (fours) | 21
+
+These are the common formats and the number of ends can vary depending on the competiton being played - so it's always worth a check! Other variations of the game exist. These include:
+
+- Playing until a certain number of shots is reached
+- Playing until a time limit is reached
+
 ## Further Reading
 
 If you want to find out more about the rules of bowls, and how to play we suggest you look through the following articles:
