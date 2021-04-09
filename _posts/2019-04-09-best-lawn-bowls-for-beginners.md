@@ -6,6 +6,7 @@ author: reece
 image: assets/images/best-lawn-bowls-for-beginners.jpg
 featured: true
 description: "What are the best lawn bowls for beginners? We break down the most important issues to help make the best choice"
+last_modified_at: 2021-04-09
 ---
 
 ## Top 3 bowls for beginners
@@ -45,6 +46,7 @@ description: "What are the best lawn bowls for beginners? We break down the most
 
 </div>
 
+Once you've learnt the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">rules of lawn bowls</a>, and you've decided you want to take up the sport, you'll need to get your own set of bowls.
 
 Selecting your first set of bowls can be a bit of a mindfield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!
 
