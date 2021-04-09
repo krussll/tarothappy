@@ -11,9 +11,14 @@ last_modified_at: 2021-04-08
 
 The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of lawn bowls, once you understand these you can get out into the greens and learn the rest as you go!
 
+All of the information in this guide can be found in the offical [Laws of the Sport of Bowls](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf). This is the latest version (3.2) released in 2020.
+
+You can keep track of the latest changes and updates at [World Bowls "Laws Of The Sport](http://www.worldbowls.com/laws-umpiring/laws-of-the-sport/).
+
 ## The Object
 
-The aim of lawn bowling is to roll your bowl as close to a smaller white ball (known as the jack) as possible
+The aim of lawn bowling is to roll your bowl as close to a smaller white ball (known as the jack) as possible.
+
 You want to get one or more of your bowls closer to the jack than your opponent
 
 ## Playing the Game
@@ -55,12 +60,23 @@ Two mats are required for a game, one is placed at either end of the green. Mats
 
 What are the lawn bowls mat placement rules? **The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the back edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
 
+>> 6.1.1 Before the start of play in each end, the player to play first must place the centre
+line of the mat lengthwise along the centre line of the rink, with the mat line at
+least 2 metres from the rear ditch and at least 25 metres from the front ditch.
+>>
+>> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
 
 ## Scoring the Game
 
 * The winning person/team is determined by who got a bowl closest to the jack
 * One point (also known as "shots") is awarded for each bowl that is closer to the jack than the nearest bowl from the losing team
 * The winning player/team gets to roll the jack for the next end
+
+>> 22.1 A shot or shots refers to the bowl or bowls (called shot bowls) which is or are
+nearer to the jack than the nearest bowl played by the opposing team or opponent
+in Singles
+>>
+>> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
 
 ## Winning the game
 
@@ -87,9 +103,16 @@ We recommend playing alongside an experienced bowler to help you the rest of the
 
 ## Common variations
 
-* There are some common variations to the stars game setup described above. We'll go over a few of these now.
+There are some common variations to the stars game setup described above. We'll go over a few of these now.
+
 * "First to X" number of shots. This is a common one for singles play. Instead of playing for a certain number of ends, you play until someone gets to a specific score. This is usually "first to 21" and in tight games it can make for a tense (and sometimes very long!) game
+* the highest number of ends won.
+* the highest number of sets. These act almost like "mini games" of 9 ends. Best of 3 games is the winner
 * 2 wood games. Again, another variation on the singles format. In this game each player only gets two bowls. This is a true test of a players' lead abilities
+
+>> _References_
+>> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
+>> [Wikipedia - lawn Bowls "Scoring"](https://en.wikipedia.org/wiki/Bowls#Scoring)
 
 ## How long is a game of lawn bowls?
 
