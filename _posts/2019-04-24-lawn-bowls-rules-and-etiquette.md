@@ -12,7 +12,7 @@ description: "A Guide on Lawn bowls rules and etiquette - Learn The Unspoken Rul
 ## Learn The Unspoken Rules
 
 Lawn bowling happens to be one of the games with several rules of etiquette. These rules, especially once learned and appreciated, create a pleasant game for all involved.
-Are you a beginner in lawn bowling? This article presents critical lawn bowls practices worth considering the next time you are on the rink. If you want more on the basic rules of bowls, then checkout our <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">lawn bowls rules guide</a>.
+Are you a beginner in lawn bowling? This article presents critical lawn bowls practices worth considering the next time you are on the rink. If you want more on the basic rules of bowls, then checkout my guide for <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">the rules of lawn bowls</a>.
 
 
 ## What is lawn bowls etiquette?
