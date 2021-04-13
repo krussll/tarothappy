@@ -6,8 +6,10 @@ author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
 featured: true
 description: "Our guide for the rules of lawn bowls for beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
-last_modified_at: 2021-04-08
+last_modified_at: 2021-04-13
 ---
+
+<img src="/assets/images/rules-of-lawn-bowls/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg" alt="How to play lawn bowls. The rules of lawn bowls" style="max-height: 500px;" />
 
 The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of lawn bowls, once you understand these you can get out into the greens and learn the rest as you go!
 
@@ -67,6 +69,9 @@ least 2 metres from the rear ditch and at least 25 metres from the front ditch.
 >> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
 
 ## Scoring the Game
+
+<img src="/assets/images/rules-of-lawn-bowls/how-to-score-in-lawn-bowls.jpg" alt="How to score in lawn bowls" style="width: 100%" />
+
 
 * The winning person/team is determined by who got a bowl closest to the jack
 * One point (also known as "shots") is awarded for each bowl that is closer to the jack than the nearest bowl from the losing team
