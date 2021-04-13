@@ -125,7 +125,7 @@ There are some common variations to the stars game setup described above. We'll 
 
 How long is a game of lawn bowls? **A game of bowls will last between 1 and a half hours and 3 hours. The duration of a game of bowls will vary depending on the format. Singles will be on the shorter time frame and Fours taking much longer.**
 
-## How many end in lawn bowls
+## How many ends in lawn bowls in a game of lawn bowls
 
 **The number of ends played in a game of lawn bowls will vary between 18 and 21 depending on the format. Here is an overview on how many ends are played in bowls based on the format of play.**
 
@@ -140,7 +140,16 @@ These are the common formats and the number of ends can vary depending on the co
 - Playing until a certain number of shots is reached
 - Playing until a time limit is reached
 
-## Further Reading
+## Lawn Bowls green Dimensions
+
+<img src="/assets/images/rules-of-lawn-bowls/lawn-bowls-green-dimensions.jpg" alt="How to score in lawn bowls" style="width: 100%" />
+
+**A lawn bowls green must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.**
+
+>> _References_
+>> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
+
+## Related Articles
 
 If you want to find out more about the rules of bowls, and how to play we suggest you look through the following articles:
 
