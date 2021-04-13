@@ -140,9 +140,9 @@ These are the common formats and the number of ends can vary depending on the co
 - Playing until a certain number of shots is reached
 - Playing until a time limit is reached
 
-## Lawn Bowls green Dimensions
+## Lawn Bowls Green Dimensions
 
-<img src="/assets/images/rules-of-lawn-bowls/lawn-bowls-green-dimensions.jpg" alt="How to score in lawn bowls" style="width: 100%" />
+<img src="/assets/images/rules-of-lawn-bowls/lawn-bowls-green-dimensions.jpg" alt="Lawn Bowls Green Dimensions" style="width: 100%" />
 
 **A lawn bowls green must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.**
 
