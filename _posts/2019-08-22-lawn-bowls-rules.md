@@ -148,6 +148,20 @@ These are the common formats and the number of ends can vary depending on the co
 
 >> _References_
 >> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
+>> 
+
+### Minimum jack length in bowls
+
+**The minimum jack length is 23 meters.** This is measured once the jack has come to rest, and is placed in the centre of the rink. The measurement is taken in a straight line from the centre of the mat, to the nearest point of the jack.
+
+If the jack is under 23 meters from the mat the jack is given to the opposition. They will then have to opportunity to re-place the mat and to deliver the jack.
+
+>> _References_
+>> [World Bowls Rules](http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf)
+
+### Maximum jack length in bowls
+
+**The maximum jack length in bowls is 36 meters.**
 
 ## Related Articles
 
