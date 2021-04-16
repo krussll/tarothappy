@@ -35,14 +35,11 @@ post_class: post-template
 			</div>
 
 			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid lazyload" data-src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}" itemprop="image">{% endif %}
+			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" title="{{ page.title }}" alt="{{ page.title }}" itemprop="image">{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post"  itemprop="articleBody"> 
-				<!-- Ezoic - under_page_title - under_page_title -->
-				<div id="ezoic-pub-ad-placeholder-104"> </div>
-				<!-- End Ezoic - under_page_title - under_page_title -->
 				{{content}}
         <div class="clearfix"></div>
 			</div>
