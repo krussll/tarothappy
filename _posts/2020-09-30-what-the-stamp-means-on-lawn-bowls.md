@@ -105,7 +105,7 @@ You can still use your bowls, even if they have passed the expiry date on the st
 
 Whilst club and local leagues may say it is a requirement to have valid bowls, in reality they are never checked. If you play to this level you should worry too much about being refused to play.
 
-If you which to enter National, or International comeptitons, then you will most definitely need them within their expiry date.
+If you wish to enter National, or International comeptitons, then you will most definitely need them within their expiry date.
 
 ## How much does it cost to re-stamp a set of bowls?
 
