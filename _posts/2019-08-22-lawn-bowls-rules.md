@@ -9,7 +9,7 @@ description: "Our guide for the rules of lawn bowls for beginners who just want 
 last_modified_at: 2021-04-13
 ---
 
-<img src="/assets/images/rules-of-lawn-bowls/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg" alt="How to play lawn bowls. The rules of lawn bowls" style="max-height: 500px;" />
+<img src="/assets/images/rules-of-lawn-bowls/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg" width="386" height="500" alt="How to play lawn bowls. The rules of lawn bowls" style="max-height: 500px;" />
 
 The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of lawn bowls, once you understand these you can get out into the greens and learn the rest as you go!
 
@@ -60,7 +60,7 @@ Two mats are required for a game, one is placed at either end of the green. Mats
 
 ## Placing the mat
 
-<img src="/assets/images/rules-of-lawn-bowls/placing-the-mat-lawn-bowls.jpg" alt="How to place the mat lawn bowls" style="width: 100%" />
+<img src="/assets/images/rules-of-lawn-bowls/placing-the-mat-lawn-bowls.jpg" width="730" height="249" alt="How to place the mat lawn bowls" style="width: 100%" />
 
 What are the lawn bowls mat placement rules? **The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the back edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
 
@@ -72,7 +72,7 @@ least 2 metres from the rear ditch and at least 25 metres from the front ditch.
 
 ## Scoring the Game
 
-<img src="/assets/images/rules-of-lawn-bowls/how-to-score-in-lawn-bowls.jpg" alt="How to score in lawn bowls" style="width: 100%" />
+<img src="/assets/images/rules-of-lawn-bowls/how-to-score-in-lawn-bowls.jpg" width="730" height="223" alt="How to score in lawn bowls" style="width: 100%" />
 
 
 * The winning person/team is determined by who got a bowl closest to the jack
@@ -142,7 +142,7 @@ These are the common formats and the number of ends can vary depending on the co
 
 ## Lawn Bowls Green Dimensions
 
-<img src="/assets/images/rules-of-lawn-bowls/lawn-bowls-green-dimensions.jpg" alt="Lawn Bowls Green Dimensions" style="width: 100%" />
+<img src="/assets/images/rules-of-lawn-bowls/lawn-bowls-green-dimensions.jpg" width="730" height="687" alt="Lawn Bowls Green Dimensions" style="width: 100%" />
 
 **A lawn bowls green must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.**
 
