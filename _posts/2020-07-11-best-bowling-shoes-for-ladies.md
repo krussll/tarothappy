@@ -16,7 +16,6 @@ description: "Which bowls shoes are the best? Check out our list of the 6 best a
       <th>Brand</th>
       <th>Model</th>
       <th>Price</th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -24,37 +23,31 @@ description: "Which bowls shoes are the best? Check out our list of the 6 best a
       <td>Dek</td>
       <td>Lace Up</td>
       <td>£20-£35</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B06Y67P3FT/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B06Y67P3FT&linkCode=as2&tag=jackhighbowls-21&linkId=042db14bdeee0de79298b6272cab8ccd" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Dek</td>
       <td>Lace Up Trainer</td>
       <td>£18.50 - £28.50</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B00S6YGAZQ/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00S6YGAZQ&linkCode=as2&tag=jackhighbowls-21&linkId=c0009998b32d9219cf6d1a475de0b5c7" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Henselite</td>
       <td>Tiger Sport</td>
       <td>£49.99 - £56.99</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B004BJXI6E/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B004BJXI6E&linkCode=as2&tag=jackhighbowls-21&linkId=bcd75de543b243dcaf0ff9edb95237c5" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Legend</td>
       <td>Dynamics</td>
       <td>£22.99</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B016QGZ35I/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B016QGZ35I&linkCode=as2&tag=jackhighbowls-21&linkId=2af5ef7818c3fd754fe3b2fd924389a1" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Henselite</td>
       <td>HL72</td>
       <td>£49.99</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B071DXKFY9/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B071DXKFY9&linkCode=as2&tag=jackhighbowls-21&linkId=d5fff84072ce51d237fc41af4b2a8b35" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Aero</td>
       <td>ComfitPro Champion</td>
       <td>£47.99</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B074N5GNTQ/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B074N5GNTQ&linkCode=as2&tag=jackhighbowls-21&linkId=495aea45e5cbb1a7a21d279a8cfafed4" class="btn more"  target="_blank">See more</a></td>
     </tr>
   </tbody>
 </table>
@@ -85,9 +78,12 @@ Their Lace up shoes come in at a reasonable 20-35 (depending on size) and for yo
 
 At time of writing they had 71 reviews with and average of 4.5 out of 5 stars, which we think offers great value.
 
+<!---
 https://www.amazon.co.uk/Womens-Lightweight-Bowls-Shoes-Bowling/dp/B01MSH3OMR/ref=sr_1_2?crid=15I5M5RQ7301H&keywords=ladies%2Blawn%2Bbowling%2Bshoes&qid=1553600229&s=gateway&sprefix=ladies%2Blawn%2B%2Caps%2C127&sr=8-2&th=1
+--->
 
 ## Dek Lace Up Bowls Shoes (Trainer style)
+
 ### Best for value
 
 <a href="https://www.amazon.co.uk/gp/product/B00S6YGAZQ/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00S6YGAZQ&linkCode=as2&tag=jackhighbowls-21&linkId=c0009998b32d9219cf6d1a475de0b5c7" class="btn more"  target="_blank">See more</a>
@@ -100,7 +96,9 @@ With a 4.4 star average (from 86 reviews, no less) you get a great modern traine
 >
 > Amazon customer review
 
+<!---
 https://www.amazon.co.uk/Womens-Ladies-Lightweight-Bowling-Trainers/dp/B00S6YGC4U/ref=sr_1_5?crid=15I5M5RQ7301H&keywords=ladies+lawn+bowling+shoes&qid=1553600229&s=gateway&sprefix=ladies+lawn+%2Caps%2C127&sr=8-5
+--->
 
 ## Henselite Tiger Sport Lace Up Bowls Shoes
 ### Best for support
@@ -113,9 +111,11 @@ The Tiger Sport may be the most expensive - topping the best part of 60 at the h
 
 Unique airflow technology has been designed in to improve coolness and comfort, plus the insoles are made from a special material that moulds to your foot for extra heel and arch support. Very snazzy.
 
-Finally, they are also at the top range of the review ranking with 4.3 or of 5 stars making them highly recommend by previous buyers
+Finally, they are also at the top range of the review ranking with 4.3 or of 5 stars making them highly recommend by previous buyers.
 
+<!---
 https://www.amazon.co.uk/Henselite-Ladies-Quality-Bowling-Available/dp/B07F6FWFXW/ref=sr_1_15?crid=15I5M5RQ7301H&keywords=ladies+lawn+bowling+shoes&qid=1553600229&s=gateway&sprefix=ladies+lawn+%2Caps%2C127&sr=8-15
+--->
 
 ## Legend Dynamics Leather Bowls Shoes
 ### Best for classic design
@@ -126,8 +126,9 @@ The Legend Dynamics are classic design at its best. Why go for newer, flasher mo
 
 The Dynamics are also the only velcro fastening on our list. They actually feature two velcro fastening and elastication to ensure a better fit.
 
-
+<!---
 https://www.amazon.co.uk/Ladies-Legend-Dynamics-Leather-Bowling/dp/B016QGYW0U/ref=sr_1_20?crid=15I5M5RQ7301H&keywords=ladies+lawn+bowling+shoes&qid=1553600229&s=gateway&sprefix=ladies+lawn+%2Caps%2C127&sr=8-20
+--->
 
 ## Henselite HL72 Bowling Shoes (Grey)
 ### Best for unique design
@@ -145,8 +146,9 @@ At £49.99 and with 5 of out 5 stars reviews, there's not much to complain about
 >
 > Amazon customer review
 
-
+<!---
 https://www.amazon.co.uk/Henselite-Ladies-Ultra-Lightweight-Bowling-Shoes/dp/B0716LXVJF/ref=sr_1_1?crid=15I5M5RQ7301H&keywords=ladies+lawn+bowling+shoes&qid=1553600312&refinements=p_89%3AHenselite&rnid=1632651031&s=gateway&sprefix=ladies+lawn+%2Caps%2C127&sr=8-1
+--->
 
 ## Aero ComfitPro Champion Bowling Shoes
 ### Best all-rounder
