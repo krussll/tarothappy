@@ -24,11 +24,11 @@ reasons to not buy:
 
 </div>
 
-Bottom line
+## Bottom line
 
 A fantastic set of bowls. Underrated due to the similarity to the Taylor Ace. The strong finish will favour those playing backend positions, but might not be one for the lead purests. It’s versatile and consistent enough to handle anything you throw at it, especially on the outdoor greens.
 
-Facts
+## Facts
 
 Playing surface: Indoor/Outdoor
 
