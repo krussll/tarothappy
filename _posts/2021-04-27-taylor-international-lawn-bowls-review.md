@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Taylor Vector VS Review"
+title:  "Taylor International Lawn Bowls Review"
 author: reece
 categories: [ review, bowls ]
-image: assets/images/taylor-vs-review.jpg
-description: "The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget."
+image: assets/images/taylor_international_lawn_bowls_review.jpg
+description: "The Taylor International is a versatile outdoor bowl. The strong finish will favour those playing backend positions, but might not be one for the lead purests. It’s versatile and consistent enough to handle anything you throw at it, especially on the outdoor greens."
 ---
 
 <div class="overview" markdown="1">
