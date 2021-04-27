@@ -9,7 +9,7 @@ description: "The Taylor Vector VS are a premium, narrow lined bowl. Ideal for i
 
 <div class="overview" markdown="1">
 
-I spent 7.5 hours testing the International models on the greens and in games, as well as reading reviews from experts and users. In summary:
+I spent 11 hours testing the International models on the greens and in games, as well as reading reviews from experts and users. In summary:
 
 reasons to buy:
 
