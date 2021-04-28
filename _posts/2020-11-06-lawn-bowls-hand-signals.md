@@ -109,7 +109,7 @@ This signal is done by pointing at the bowl and waving your right hand, as if yo
 
 ### Bowls are touching
 
-<img src="/assets/images/hand-signals/bowls-are-touchng.png " alt="lawn bowls hand signal for indicating bowls are touching" height="200px" style="max-height: 300px;" />
+<img src="/assets/images/hand-signals/bowls-are-touching.png " alt="lawn bowls hand signal for indicating bowls are touching" height="200px" style="max-height: 300px;" />
 
 >> SOURCE: <a href="http://www.pimdlawnbowls.org/files/handsignals.pdf">http://www.pimdlawnbowls.org/</a>
 
