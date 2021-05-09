@@ -48,7 +48,7 @@ last_modified_at: 2021-04-09
 
 Once you've learnt the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">rules of lawn bowls</a>, and you've decided you want to take up the sport, you'll need to get your own set of bowls.
 
-Selecting your first set of bowls can be a bit of a mindfield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!
+Selecting your first set of bowls can be a bit of a minefield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!
 
 Choosing a set of woods will eventually come down to a mixture of personal preference, and the demands of how you play. These demands can include:
 * What position you play in teams. The needs of a lead will be very different to those of a skip
