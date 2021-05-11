@@ -51,7 +51,7 @@ Grip-It is also great for indoor bowls. Many clubs ban the use of bowl polishers
 
 ### Grippo
 
-<img src="/assets/images/grippo-lawn-bowls-wax.jpg" width="200px" />
+<img src="/assets/images/bowls/grips/grippo.jpg" width="200px" />
 
 <a href="https://www.amazon.co.uk/gp/product/B004UQV7YS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B004UQV7YS&linkId=94116a280d33baff3a73915f3c5d616c"  class="btn more"  target="_blank">See current deals</a>
 
@@ -82,7 +82,7 @@ Again, we must note that this is a bowls polish, so will be restricted to outdoo
 
 ### Bulldog Bowls Grip Wax
 
-<img src="/assets/images/bulldog-lawn-bowls-wax.jpg" width="200px" />
+<img src="/assets/images/bowls/grips/bulldog.jpg" width="200px" />
 
 <a href="https://www.amazon.co.uk/Henselite-Bulldog-Sports-Grip/dp/B07HB4SCZ3/ref=as_li_ss_tl?dchild=1&keywords=Bulldog+Bowls+Grip+Wax&qid=1595588930&sr=8-1-fkmr0&linkCode=ll1&tag=jackhighbow0a-21&linkId=a1a649b1ee01ac8f8a1c27b3cdf8c1b6"  class="btn more"  target="_blank">See current deals</a>
 
