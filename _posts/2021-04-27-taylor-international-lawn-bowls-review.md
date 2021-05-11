@@ -42,7 +42,7 @@ Region available: UK
 
 Price: £265.00
 
-<img src="/assets/images/bowls/taylor/international/taylor-international.jpg" width="200px" />
+<img src="/assets/images/bowls/taylor/international/taylor-international.jpg" width="400px" />
 
 ## Line analysis
 
@@ -57,7 +57,7 @@ I personally quite like this, as it’s great for playing around short/off-centr
  
 ## Taylor International Trajectory Guide
  
-<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Thomas Taylor lawn bowl models"  style="max-height:200px;" height="200px" />
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Thomas Taylor lawn bowl models"  style="max-width:400px;" height="200px" />
 
 
 ## Sizes and Weights
@@ -65,13 +65,13 @@ I personally quite like this, as it’s great for playing around short/off-centr
 * Available in heavy.
 * Sizes 00 - 5
 
-<img src="/assets/images/bowls/taylor/international/taylor-international-grip.jpg" width="200px" />
+<img src="/assets/images/bowls/taylor/international/taylor-international-colour.jpg" width="400px" />
 
 I tested with a set of size 1 Internationals. I normally play with size 2s but wanted to try a size down to see if it could help my grip. I found the sizing to be great, and it fitted in the hand really well.
 
 ## Grips and colours
 
-<img src="/assets/images/bowls/taylor/international/taylor-international-colour.jpg" width="200px" />
+<img src="/assets/images/bowls/taylor/international/taylor-international-grip.jpg" width="400px" />
 
 The International comes with Taylor’s Progrip as standard. It is in fact the only grip option available - however this isn’t a draw back. The Progrip is a great variation on the classic “dimple” grip.
 
