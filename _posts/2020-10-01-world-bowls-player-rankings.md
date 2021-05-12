@@ -4,7 +4,7 @@ title:  "World Bowls player rankings 2019/2020"
 author: reece
 categories: [ guide ]
 image: assets/images/world-bowls-player-rankings.jpeg
-featured: true
+featured: false
 description: "Complete list of the top 21 players in the world. The top players decided by World Bowls points."
 ---
 
