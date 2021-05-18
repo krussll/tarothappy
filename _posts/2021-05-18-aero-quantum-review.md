@@ -129,7 +129,7 @@ Aero offer their bowls in 7 different colour styles:
 
 I got my Quantums in the "Arctic" Trifecta option. The colour looks great in the sun, and distribution of the speckles is nice and even.
 
-<img src="/assets/images/bowls/aero/quantum/aero-quantum-surfrace.jpg" width="400px" />
+<img src="/assets/images/bowls/aero/quantum/aero-quantum-surface.jpg" width="400px" />
 
 The "Build a Bowl" feature only shows how the affect looks from the side, and doesn't show what the running surface looks like. It's a shame as the join of the colours on the running surface is one of my favourite features.
 
