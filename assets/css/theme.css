@@ -883,3 +883,8 @@ background-color: #675bff !important;
     border-color: #675bff !important;
     float: right;
 }
+
+.main-content img {
+	display: block;
+	margin: auto;
+}
