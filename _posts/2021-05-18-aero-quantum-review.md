@@ -91,7 +91,7 @@ If you are concerned that the greens you play on will be too heavy, and the line
 
 * Sizes 00 - 5. Also available in half sizes
 
-I played with a set of size 2 heavy. The size 2 felt much heavier than size twos from other brands. I compared them to an old set of Drake's Pride Professionals and the Quantums were heavier. This could be due to them being a new set compared to an older model - however this should be something to look out for if you are upgrading from an old set. 
+I played with a set of size 2 heavy. The size 2 felt much heavier than size twos from other brands. I compared them to an old set of Drake's Pride Professionals and the Quantums were heavier. The Quantum bowl was only 30g heavier than the older Professional model, but this would almost be the equivalent of an extra half size. This could be due to them being a new set compared to an older model - however this should be something to look out for if you are upgrading from an old set. 
 
 <img src="/assets/images/bowls/aero/quantum/aero-quantum-side.jpg" width="400px" />
 
