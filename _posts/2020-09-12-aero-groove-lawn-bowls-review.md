@@ -5,11 +5,12 @@ author: reece
 categories: [ review, bowls ]
 image: assets/images/aero-groove-lawn-bowls-review.jpeg
 description: "4 reasons to buy/NOT buy Aero Groove lawn bowls"
+last_modified_at: 2021-06-02
 ---
 
 <div class="overview" markdown="1">
 
-We spent  8.5 hours reading reviews from experts and users. In summary, this is what other bowlers think:
+I spent 17 hours playing with a set of Quantums as well as reading reviews from experts and other users. In summary, this is what other I think.
 
 3 reasons to buy:
 * Great allrounder. Can be played indoors and outdoors
@@ -52,6 +53,8 @@ Sizes available: 00-5
 Price: £356
 
 
+<img src="/assets/images/bowls/aero/groove/aero-groove-set-of-four.jpg" width="400px" />
+
 ## Line analysis
 
 For comparison for those in the UK, the Groove has a line profile similar to the Taylor Ace.
@@ -68,13 +71,20 @@ The Groove also holds it’s line with minimum weight, which is ideal for yard-o
 
 ## Sizes and Weights
 
-Aero Grooves are available in sizes00 through 5, including half sizes - which is very rare and is something we’ve only seen done “as standard” by Aero. 
+Aero Grooves are available in sizes 00 through 5, including half sizes - which is very rare and is something we’ve only seen done “as standard” by Aero. 
+
+<img src="/assets/images/bowls/aero/groove/aero-groove-set-of-four-running-surface.jpg" width="400px" />
 
 Only available in heavyweight.
+
+
 
 ## Grips and colours
 
 Aero offers the widest range of colour options. We are big fans of the gradient and stripped effects. They also offer unique emblem options, with the choice of a standard sized emblem, or in “large”. This large option makes the emblem take up the entirety of the area within the gripped shoulder - and is a very unique look. It's a bit of a grower and one we have grown fond of!
+
+
+<img src="/assets/images/bowls/aero/groove/aero-groove-set-of-four-colour.jpg" width="400px" />
 
 
 Three unique grips only available with Aero:
@@ -90,11 +100,14 @@ The Z Scoop grip is Aero's unique grip offering. This is a grip embedded within 
 
 The pattern itself isn't just a generic dimple grip, but a zig zag design. If you are used to the classic grip patterns this may take some getting used to, but we think it's well worth the effort in adapting.
 
+<img src="/assets/images/bowls/aero/groove/aero-groove-grip.jpg" width="400px" />
+
 ### Zig-Zag Grip
 
 <img src="/assets/images/zig-zag-grip-aero.png" alt="Aero Zig-Zag Grip" height="200px" />
 
 The Zig Zap grip option is the same design for the Z Scoop, but without the shoulder adjustment. This is a great choice for many bowlers, as the embedded shoulders don't work for everyone.
+
 
 ### Dentations Grip
 
@@ -106,3 +119,5 @@ The Dentations Grip consists of three rings of dimple-like grips on each shoulde
 
 So, in conclusion the Aero Groove is a fantastic model, and one I believe will/should be seen far more often on British greens. We love it's even draw, as well as the boundry pushing colours and grips. We highly recommend you try these out in person, as they may not be to everyone's taste, but do give them a good go!
 
+
+<img src="/assets/images/bowls/aero/groove/aero-groove-set-of-four-tertiary.jpg" width="400px" />
