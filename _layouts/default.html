@@ -18,7 +18,7 @@
 <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <title>{{ page.title }} | {{site.title_suffix}}</title>
-  
+
 <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -32,7 +32,7 @@
 {% if jekyll.environment == 'production' %}
 <script async id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7d724106e0c8f1fbc63c0ec38/a8267a840c7c07406e7f692bf.js");</script>
 {% endif %}
-  
+
 
 </head>
 
@@ -67,15 +67,11 @@
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ site.baseurl }}/guides">Guides</a>
+                  <a class="nav-link" href="{{ site.baseurl }}/guides">All Guides</a>
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ site.baseurl }}/reviews">Reviews</a>
-                </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ site.baseurl }}/help-and-support">Help and Support</a>
+                  <a class="nav-link" href="{{ site.baseurl }}/tarot-card-meanings">Tarot Card Meanings</a>
                 </li>
 
                 <li class="nav-item">
@@ -84,10 +80,6 @@
 
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
-                </li>
-              
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/search">Search</a>
                 </li>
             </ul>
             <!-- End Menu -->
@@ -137,14 +129,14 @@
     <footer class="footer">
 
         <div class="container">
-          
+
             <div class="row justify-content-center">
                 <div class="col-md-8">
                   <h5 class="text-center text-white">Search</h5>
                   {% include search-form.html %}
                 </div>
             </div>
-          
+
             <div class="row">
 
                 <div class="col-sm-3">
@@ -187,8 +179,8 @@
                 <div class="col-sm-3">
 			<div class="footer-widget">
                 		<h5 class="title">Subscribe</h5>
-				
-				<p> 
+
+				<p>
 					Subscribe to our maillist and get access to additional FREE articles and guides.
 				</p>
 				<!-- Begin Mailchimp Signup Form -->
@@ -235,7 +227,7 @@
 ================================================== -->
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  
+
 {% if page.url == "/search" %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/search.js"></script>
