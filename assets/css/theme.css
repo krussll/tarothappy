@@ -9,7 +9,7 @@ body {
 	padding: 0rem 0rem 1rem 0;
 }
 
-h1, .navbar-brand {
+.navbar-brand {
  font-family: 'Bodoni Moda', serif;
 }
 
@@ -777,6 +777,11 @@ background-color: #fff;
     font-weight: 500;
     margin-bottom: 1.5rem;
 }
+
+.article-post .h1 {
+    font-family: 'Bodoni Moda', serif;
+}
+
 .article-post img.shadow {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
