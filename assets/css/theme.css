@@ -333,6 +333,11 @@ span.post-name a,span.post-read-more a:hover {
 	font-weight:700;
 	margin-bottom:1rem;
 }
+
+.mainheading .featured-image {
+	margin-bottom: 2em;
+}
+
 .intro {
     background-image:url(../images/tarot-head.jpg);
     background-size:cover;
