@@ -2,11 +2,15 @@
 Template Name:Affiliates
 */
 body {
-    font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+    font-family: sans-serif;
     overflow-x: hidden;
 }
 .mainheading {
 	padding: 0rem 0rem 1rem 0;
+}
+
+h1, .navbar-brand {
+ font-family: 'Bodoni Moda', serif;
 }
 
 a {
