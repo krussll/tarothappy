@@ -18,6 +18,10 @@ description: ""
         <th>Name</th>
         <td>Ace Of Wands</td>
       </tr>
+      <tr>
+        <th>Number</th>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 
