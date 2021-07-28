@@ -27,4 +27,4 @@ description: ""
 
 </div>
 
-<img src="assets/images/tarot-cards/ace-of-wands.jpg" />
+<img src="/assets/images/tarot-cards/ace-of-wands.jpg" />
