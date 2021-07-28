@@ -439,7 +439,7 @@ blockquote {
 }
 .featured-image {
     display: block;
-    margin-bottom: 2rem;
+    margin-bottom: 2rem !important;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
 }
 .article-post img, .article-post iframe {
@@ -784,7 +784,8 @@ background-color: #fff;
 }
 
 .article-post .h1,
-.intro h1 {
+.intro h1,
+h1.posttitle {
     font-family: 'Bodoni Moda', serif;
 }
 
