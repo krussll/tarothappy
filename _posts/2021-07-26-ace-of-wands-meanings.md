@@ -26,3 +26,5 @@ description: ""
   </table>
 
 </div>
+
+<img src="assets/images/tarot-cards/ace-of-wands.jpg" />
