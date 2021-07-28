@@ -778,7 +778,8 @@ background-color: #fff;
     margin-bottom: 1.5rem;
 }
 
-.article-post .h1 {
+.article-post .h1,
+.intro h1 {
     font-family: 'Bodoni Moda', serif;
 }
 
