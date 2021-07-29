@@ -42,4 +42,4 @@ SuperSuperSuper
 Super long answer
 {% endcapture %}
 
-{% include faq.html question="This is my sample note." answer=answer %}
+{% include faq.html question="This is my sample note." answer=answer | newline_to_br %}
