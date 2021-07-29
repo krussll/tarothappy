@@ -29,4 +29,4 @@ description: ""
 
 <img width="1280" height="977" src="/assets/images/tarot-cards/ace-of-wands.jpg" />
 
-{% include faq.html question="This is my sample note.", answer="testtest" %}
+{% include faq.html question="This is my sample note." %}
