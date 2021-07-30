@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 image: assets/images/how-often-should-you-read-your-own-tarot-cards.jpg
 featured: false
-description: ""
+description: "How often is too often? Reading your own tarot is great but there are good timeframes to do it. Read on to find out more"
 ---
 
 Beginning tarot card readers always have questions, and one of the most common questions they have is, is it acceptable for a tarot card reader to read their own tarot cards? 
