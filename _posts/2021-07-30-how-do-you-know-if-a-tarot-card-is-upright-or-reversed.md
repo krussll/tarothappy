@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 image: assets/images/how-do-you-know-if-a-tarot-card-is-upright-or-reversed.jpg
 featured: false
-description: ""
+description: "When you’re doing a reading for someone, the cards you pull could be facing the client or facing you, but learning how to handle each of these cards is a lot easier than you think."
 ---
 
 Tarot cards can be confusing when you’re first learning to read them. Part of the reason is because each deck has a different theme and design, but another reason is because it is sometimes difficult to tell if the card is upright or in a reversed position. When you’re doing a reading for someone, the cards you pull could be facing the client or facing you, but learning how to handle each of these cards is a lot easier than you think.
