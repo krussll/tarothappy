@@ -103,7 +103,9 @@ If you are prone to depression, a reversed Ace of Wands also stands as a warning
 
 {% capture title %}The Ace of Wands Health Upright Meaning{% endcapture %}
 
-{% capture answer %}{% endcapture %}
+{% capture answer %}An upright Ace of Wands signifies a new love for health and well-being born from a genuine place of enthusiasm. Perhaps you have felt slow and groggy lately? Now is the time to take up a new exercise routine, such as yoga or pilates, or give that new diet a try. You will likely find that you enjoy exercise and diet far more than you used to. 
+
+An upright Ace of Wands is also a light in the dark for anyone suffering with depression or anxiety. The universe is feeding you motivation and inspiration to shake off even the darkest of times.{% endcapture %}
 
 {% include faq.html question=title answer=answer %}
 
