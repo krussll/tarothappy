@@ -15,12 +15,34 @@ description: "The Ace of Cups signals great happiness and abundance. Find out wh
   <table>
     <tbody>
       <tr>
-        <th>Name</th>
-        <td>Ace Of Cups</td>
+        <th>Ace Of Cups Card Number</th>
+        <td>23</td>
       </tr>
       <tr>
-        <th>Number</th>
-        <td></td>
+        <th>Ace Of Cups Element</th>
+        <td>Water</td>
+      </tr>
+      <tr>
+        <th>Ace Of Cups Zodiac Signs</th>
+        <td>
+          <ul>
+          <li>Cancer</li>
+          <li>Scorpio</li>
+          <li>Pisces</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>Ace Of Cups Yes or No?</th>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <th>Ace Of Cups Previous Card</th>
+        <td>King of Wands</td>
+      </tr>
+      <tr>
+        <th>Ace Of Cups Next Card</th>
+        <td>Two of Cups</td>
       </tr>
     </tbody>
   </table>
