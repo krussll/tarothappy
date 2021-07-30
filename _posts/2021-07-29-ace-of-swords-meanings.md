@@ -29,6 +29,8 @@ description: ""
 
 The Ace of Swords represents raw intellectual power, capable of cutting through the fog of deception to create new and wonderful opportunities. It harkens forth a new beginning guided by a clear understanding and forward-thinking decisions. As you use your knowledge to develop new attitudes, goals will come into line and you will harness the power to actualize your once-far-off dreams. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0ZmF2SbUNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The Ace of Swords will bring a wealth of opportunity to all aspects of your life—from love and spirituality to your career, health, and finances. Together, let’s explore what this period of growth and fortune has in store for you. 
 
 ## The Ace of Swords – An Overview
