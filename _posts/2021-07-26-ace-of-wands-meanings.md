@@ -15,12 +15,34 @@ description: "The Ace of Wands signals a period of spiritual awakening. Explore 
   <table>
     <tbody>
       <tr>
-        <th>Name</th>
-        <td>Ace Of Wands</td>
+        <th>Ace Of Wands Card Number</th>
+        <td>22</td>
       </tr>
       <tr>
-        <th>Number</th>
-        <td></td>
+        <th>Ace Of Wands Element</th>
+        <td>Fire</td>
+      </tr>
+      <tr>
+        <th>Ace Of Wands Zodiac Signs</th>
+        <td>
+          <ul>
+          <li>Aries</li>
+          <li>Sagittarius</li>
+          <li>Leo</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>Ace Of Wands - Yes or No?</th>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <th>Ace Of Wands Previous Card</th>
+        <td>The World</td>
+      </tr>
+      <tr>
+        <th>Ace Of Wands Next Card</th>
+        <td>Two of Wands</td>
       </tr>
     </tbody>
   </table>
