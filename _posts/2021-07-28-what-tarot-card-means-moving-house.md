@@ -5,12 +5,12 @@ author: reece
 categories: [ guide ]
 image: assets/images/what-tarot-card-means-moving-house.jpg
 featured: false
-description: ""
+description: "If you or your client is wanting to know about moving house or relocating and finding the home of their dreams, you might want to pay special attention to the following four cards."
 ---
 
 Many people dream about living in their dream home some day, so if you’re reading tarot cards for yourself or someone else, you might wonder which card will bring you some good news when it comes to moving to a new or better home.
 
-The truth is that there are typically four cards that can indicate a move for the person being read to or some other type of property-related issue that that person will likely consider important. If your client is wanting to know about moving house or relocating and finding the home of their dreams, you might want to pay special attention to the following four cards.
+The truth is that there are typically four cards that can indicate a move for the person being read to or some other type of property-related issue that that person will likely consider important. If you - or your client - is wanting to know about moving house or relocating and finding the home of their dreams, you might want to pay special attention to the following four cards.
 
 ## What tarot cards mean "Moving House"?
 
