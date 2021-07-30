@@ -5,7 +5,7 @@ author: reece
 categories: [ tarot-card-meanings ]
 image: assets/images/guide-to-the-ace-of-swords.jpg
 featured: false
-description: ""
+description: "The Ace of Swords signals great power and opportunity. Find out what it says about your life."
 ---
 
 ## Meaning of Ace Of Swords
@@ -15,12 +15,34 @@ description: ""
   <table>
     <tbody>
       <tr>
-        <th>Name</th>
-        <td>Ace Of Swords</td>
+        <th>Ace Of Swords Card Number</th>
+        <td>24</td>
       </tr>
       <tr>
-        <th>Number</th>
-        <td></td>
+        <th>Ace Of Swords Element</th>
+        <td>Air</td>
+      </tr>
+      <tr>
+        <th>Ace Of Swords Zodiac Signs</th>
+        <td>          
+          <ul>
+          <li>Gemini</li>
+          <li>Libra</li>
+          <li>Aquarius</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>Ace Of Swords Yes or No?</th>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <th>Ace Of Swords Previous Card</th>
+        <td>King of Cups</td>
+      </tr>
+      <tr>
+        <th>Ace Of Swords Next Card</th>
+        <td>Two of Swords</td>
       </tr>
     </tbody>
   </table>
