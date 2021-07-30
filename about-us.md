@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About Me
 ---
 
 Hi! My name is Reece and I created Tarot Happy to provide a useful resource for those exploring tarot at home.
