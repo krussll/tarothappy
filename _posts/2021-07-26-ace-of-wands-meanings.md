@@ -139,6 +139,6 @@ While this may sound like a tumultuous time, the Ace of Wands acts as a guide, g
 
 ## The Ace Of Wands - What It All Means
 
-**The Ace of Cups is the barer of new and exciting pathways. When upright, it indicates a time of union between the universe and your inner world. Follow where it takes you and you will have nothing but good luck.** 
+**The Ace of Wands is the barer of new and exciting pathways. When upright, it indicates a time of union between the universe and your inner world. Follow where it takes you and you will have nothing but good luck.** 
 
-Even if you draw a reversed Ace of Cups, do not worry. Focus on what could be blocking you from your personal inner world and you will find a way to unite with your intuition.
+Even if you draw a reversed Ace of Wands, do not worry. Focus on what could be blocking you from your personal inner world and you will find a way to unite with your intuition.
