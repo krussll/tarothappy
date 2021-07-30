@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 image: assets/images/should-i-put-my-tarot-cards-back-in-order.jpg
 featured: false
-description: ""
+description: "Different tarot card readers adhere to different policies and practices when it comes to putting the cards in the right order, so the answer to this question will depend on who you talk to. Read here to find out why"
 ---
 
 When you’re a tarot card reader, you may want to have the cards in a certain order before you get started with another reading. In reality, there is a specific order for the cards to be in for “spiritual” and cleansing reasons, but to do a reading, tarot cards can be in any order you like. 
@@ -18,7 +18,7 @@ Most people will shuffle the deck before starting a reading or make sure the car
 
 ## A Certain Order for Your Tarot Cards
 
-If you follow the qabalistic philosophy of the four worlds, the order of the elements will be fire, water, air, and earth. This means that the correct order of your cards should be wands (fire), cups (water), swords (air), and pentacles (earth). Naturally, this doesn’t mean the cards have to be in this exact order before every single reading. Many beginning and experienced tarot card readers practice different rules when it comes to putting their tarot cards back in order when they’re finished with a reading. Below are some of the comments these people have made.
+If you follow the qabalistic philosophy of the four worlds, the order of the elements will be fire, water, air, and earth. This means that the correct order of your cards should be wands (fire), cups (water), swords (air), and coins (earth). Naturally, this doesn’t mean the cards have to be in this exact order before every single reading. Many beginning and experienced tarot card readers practice different rules when it comes to putting their tarot cards back in order when they’re finished with a reading. Below are some of the comments these people have made.
 
 * No need to put the cards back in place. It’s too much of a hassle.
 * There are no set rules for tarot.
