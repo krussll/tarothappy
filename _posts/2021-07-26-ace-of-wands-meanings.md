@@ -5,7 +5,7 @@ author: reece
 categories: [ tarot-card-meanings ]
 image: assets/images/guide-to-the-ace-of-wands.jpg
 featured: false
-description: ""
+description: "The Ace of Wands signals a period of spiritual awakening. Explore what it means for all aspects of your life here."
 ---
 
 ## Meaning of Ace Of Wands
