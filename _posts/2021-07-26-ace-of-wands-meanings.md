@@ -80,3 +80,61 @@ Even if you are not looking for a new career, the Ace of Wands suggests that you
 This lull is not due to a lack of emotional commitment to your career, though. Even if you still love your job, the Ace of Wands suggests you are spiritually blocked and need a new path to express your creative power. Focus on what drew you to your career in the first place and reawaken that internal power source. {% endcapture %}
 
 {% include faq.html question=title answer=answer %}
+
+## The Ace of Wands and Your Finances
+
+{% capture title %}The Ace of Wands Finances Upright Meaning{% endcapture %}
+
+{% capture answer %}An upright Ace of Wands signifies a new love for health and well-being born from a genuine place of enthusiasm. Perhaps you have felt slow and groggy lately? Now is the time to take up a new exercise routine, such as yoga or pilates, or give that new diet a try. You will likely find that you enjoy exercise and diet far more than you used to. 
+
+An upright Ace of Wands is also a light in the dark for anyone suffering with depression or anxiety. The universe is feeding you motivation and inspiration to shake off even the darkest of times. Embrace it with all your heart and take the chance to get out and improve.{% endcapture %}
+
+{% include faq.html question=title answer=answer %}
+
+{% capture title %}The Ace of Wands Finances Reversed Meaning{% endcapture %}
+
+{% capture answer %}If you have drawn a reversed Ace of Wands, your health may be deteriorating due to a lack of inspiration and inner strength to fight on. You feel as if you don’t have the energy or spirit to exercise and have likely given up your diet in recent weeks. 
+
+If you are prone to depression, a reversed Ace of Wands also stands as a warning that you should double down on your self-care. Don’t be so hard on yourself. Times are hard and it’s ok if you feel unmotivated. Focus on yourself and you will begin to heal your inner world. {% endcapture %}
+
+{% include faq.html question=title answer=answer %}
+
+## The Ace of Wands and Your Health
+
+{% capture title %}The Ace of Wands Health Upright Meaning{% endcapture %}
+
+{% capture answer %}{% endcapture %}
+
+{% include faq.html question=title answer=answer %}
+
+{% capture title %}The Ace of Wands Health Reversed Meaning{% endcapture %}
+
+{% capture answer %}If you have drawn a reversed Ace of Wands, your health may be deteriorating due to a lack of inspiration and inner strength to fight on. You feel as if you don’t have the energy or spirit to exercise and have likely given up your diet in recent weeks. 
+
+If you are prone to depression, a reversed Ace of Wands also stands as a warning that you should double down on your self-care. Don’t be so hard on yourself. Times are hard and it’s ok if you feel unmotivated. Focus on yourself and you will begin to heal your inner world. {% endcapture %}
+
+{% include faq.html question=title answer=answer %}
+
+## The Ace of Wands and Your Spirituality
+
+{% capture title %}The Ace of Wands Spirituality Upright Meaning{% endcapture %}
+
+{% capture answer %}The Ace of Wands is most often interpreted with regard to spirituality. After all, it is the utmost pinnacle of the highly spiritual Suit of Wands. If you draw an upright Ace of Wands, you are bound for an exploration of your inner self. Now is the time to embrace your spiritual side by practicing deep meditation, prayer, or another form of practice.
+
+You may find a deeper connection to your intellectual and cultural pursuits as well. Make friends and try new things during this exciting and fruitful time. {% endcapture %}
+
+{% include faq.html question=title answer=answer %}
+
+{% capture title %}The Ace of Wands Spirituality Reversed Meaning{% endcapture %}
+
+{% capture answer %}A reversed Ace of Wands suggests that you have become disconnected from your inner spirit. You may feel untethered from the world, as if the connection to your inner knowledge has been severed. Perhaps shaking up your practice or adding new ceremonies can realign your heart and mind. 
+
+While this may sound like a tumultuous time, the Ace of Wands acts as a guide, gently nudging you back towards your deeper spiritual self. By focusing on who you are on the inside, you can reconnect to your consciousness. {% endcapture %}
+
+{% include faq.html question=title answer=answer %}
+
+## The Ace Of Wands - What It All Means
+
+**The Ace of Cups is the barer of new and exciting pathways. When upright, it indicates a time of union between the universe and your inner world. Follow where it takes you and you will have nothing but good luck.** 
+
+Even if you draw a reversed Ace of Cups, do not worry. Focus on what could be blocking you from your personal inner world and you will find a way to unite with your intuition.
