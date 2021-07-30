@@ -15,12 +15,34 @@ description: "The Ace of Coins signals upcoming material prosperity. Here's how 
   <table>
     <tbody>
       <tr>
-        <th>Name</th>
-        <td>Ace Of Coins</td>
+        <th>Ace Of Coins Number</th>
+        <td>25</td>
       </tr>
       <tr>
-        <th>Number</th>
-        <td></td>
+        <th>Ace Of Coins Element</th>
+        <td>Earth</td>
+      </tr>
+      <tr>
+        <th>Ace Of Coins Zodiac Signs</th>
+        <td>
+          <ul>
+          <li>Taurus</li>
+          <li>Virgo</li>
+          <li>Capricorn</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>Ace Of Coins Yes or No?</th>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <th>Ace Of Coins Previous Card</th>
+        <td>King of Swords</td>
+      </tr>
+      <tr>
+        <th>Ace Of Coins Next Card</th>
+        <td>Two of Coins</td>
       </tr>
     </tbody>
   </table>
