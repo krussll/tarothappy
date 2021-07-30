@@ -144,4 +144,4 @@ As we become more intertwined with the material world, we can struggle to connec
 
 ## The Ace Of Coins - What It All Means
 
-The Ace of Coins is rarely bad news. Even when reversed, it generally suggests that you should hold back and avoid life’s excesses. At its best, the Ace of Coins ushers in health, stability, wealth, and happiness. Drawing an Ace of Coins should be celebrated, as the universe is showering its rewards upon you. 
+**The Ace of Coins is rarely bad news. Even when reversed, it generally suggests that you should hold back and avoid life’s excesses. At its best, the Ace of Coins ushers in health, stability, wealth, and happiness. Drawing an Ace of Coins should be celebrated, as the universe is showering its rewards upon you.**
