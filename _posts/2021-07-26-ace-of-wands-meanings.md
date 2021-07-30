@@ -29,6 +29,8 @@ description: ""
 
 The Ace of Wands is the one of boldest of all cards, embodying creativity, spiritual power, and a thirst for new knowledge. It signals the beginning of an awakening within yourself, marked by luck and success. The universe has set you on a path towards learning new lessons about life, love, morality, and your inner spiritual self. Embrace this time and thirst for the lessons you shall receive.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mW2HciDnFhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The Ace of Wands will affect all corners of your life, so let us explore together how it will touch your career, finances, love life, health, and spirituality. As you enter into this awakening, let your creativity and intuition abound.
 
 ## The Ace of Wands – An Overview
