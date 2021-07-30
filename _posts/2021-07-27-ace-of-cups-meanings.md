@@ -138,7 +138,7 @@ Explore where this block is coming from and meditate on how you can fight throug
 
 ## The Ace Of Cups - What It All Means
 
-Even at its worst, the Ace of Cups is rarely a bad omen. At its best, it signals some of life’s greatest and happiest moments. 
+**Even at its worst, the Ace of Cups is rarely a bad omen. At its best, it signals some of life’s greatest and happiest moments.**
 
 If you have drawn an upright Ace of Cups, expect love, health, happiness, wealth, and union with the divine. This is a time for elation. 
 
